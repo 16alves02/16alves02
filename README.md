@@ -21,4 +21,7 @@
 <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </div><br/>
 
+## 🎵 My Last Playlist 🎵
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4wcDhimAWY4FlXNXGlP6Un?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 I'm an 18-year-old student who loves diving into these technologies! 💻🚀
