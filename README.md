@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with Me 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-16alves02-FFA500?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/16alves02/)[![YouTube](https://img.shields.io/badge/YouTube-16alves02-FFA500?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCZsNoAZ4satDPija_rJhWtg)[![Twitter](https://img.shields.io/badge/Twitter-16alves02-FFA500?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/16alves02)
+[![Instagram](https://img.shields.io/badge/Instagram-16alves02-EB4520?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/16alves02/)[![YouTube](https://img.shields.io/badge/YouTube-16alves02-EB4520?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCZsNoAZ4satDPija_rJhWtg)[![Twitter](https://img.shields.io/badge/Twitter-16alves02-EB4520?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/16alves02)
 
 ## 📊 My GitHub Stats 📊
 <br/>
