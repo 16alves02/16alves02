@@ -25,6 +25,6 @@
 
 ## 🎵 My Last Playlist 🎵
 
-Check out my playlist on [Spotify](https://open.spotify.com/playlist/3xl9Wi23pVURReb2liOcPK?si=bf47beba3f054f84).
+Check out my playlist on [Spotify](https://open.spotify.com/playlist/0GtMMKwGHyX69Us8GUhi0q?si=d43893fa6dd24064).
 
 I'm a 19-year-old student who loves diving into these technologies! 💻🚀
