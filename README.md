@@ -1,71 +1,71 @@
-# Olá, eu sou o Leonardo Alves! 👋🏼
+# Hello, I'm Leonardo Alves! 👋🏼
 
-Sou um jovem entusiasta da tecnologia com formação em **Gestão e Programação de Sistemas Informáticos**. Atualmente, estou a expandir os meus conhecimentos na área de **Tecnologia de Maquinação com Controlo Numérico Computorizado (CNC)**. Tenho experiência no desenvolvimento de software, gestão de bases de dados e criação de sites.
+I am a young technology enthusiast with a background in **Management and Programming of Information Systems**. Currently, I am expanding my knowledge in **Computerized Numerical Control (CNC) Machining Technology**. I have experience in software development, database management, and website creation.
 
-## 🌟 Minhas Competências 🌟
+## 🌟 My Skills 🌟
 
-### 💻 Tecnologias e Ferramentas:
+### 💻 Technologies and Tools:
 
-- **Linguagens de Programação:** Java, JavaScript, HTML, CSS, C, PHP, MySQL
-- **Outras Tecnologias:** Desenvolvimento de sites, gestão de bases de dados, tratamento de imagem
-- **Ferramentas:** Adobe Photoshop, Unity
+- **Programming Languages:** Java, JavaScript, HTML, CSS, C, PHP, MySQL
+- **Other Technologies:** Website development, database management, image processing
+- **Tools:** Adobe Photoshop, Unity
 
-### 🔧 Competências Adicionais:
+### 🔧 Additional Skills:
 
-- Trabalho em Equipa
-- Capacidade de Resolução de Problemas
-- Desenvolvimento Backend
-- Criação e Gestão de Projetos Web
+- Teamwork
+- Problem-solving abilities
+- Backend development
+- Web project creation and management
 
 ## 📊 My GitHub Stats 📊
 <br/>
 
 ![16alves02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=16alves02&show_icons=true&theme=radical)
 
-## 🌐 Conecta-te Comigo 🌐
+## 🌐 Connect With Me 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-16alves02-EB4520?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/16alves02/)
 [![Youtube](https://img.shields.io/badge/Youtube-16alves02-EB4520?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@16alves02)
-[![Facebook](https://img.shields.io/badge/Facebook-16alves02-EB4520?style=for-the-badge&logo=facebook&logoColor=black)]([https://facebook.com/16alves02](https://www.facebook.com/profile.php?id=61557924755370))
+[![Facebook](https://img.shields.io/badge/Facebook-16alves02-EB4520?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/profile.php?id=61557924755370)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
 
-## 🎧 A Minha Última Playlist 🎧
+## 🎧 My Latest Playlist 🎧
 
-Dá uma espreitadela na minha playlist no [Spotify](https://open.spotify.com/playlist/0GtMMKwGHyX69Us8GUhi0q?si=d43893fa6dd24064).
+Check out my playlist on [Spotify](https://open.spotify.com/playlist/0GtMMKwGHyX69Us8GUhi0q?si=d43893fa6dd24064).
 
-## 🎓 Percurso Académico
+## 🎓 Academic Background
 
 - **Escola Secundária Dr. Serafim Leite** (2020 - 2023)
-  - Curso Técnico de **Gestão e Programação de Sistemas Informáticos**
-  - **Projeto de Aptidão Profissional (PAP):** Desenvolvimento de um site de viagens
-  - Média final: **14 valores**
+  - Technical Course in **Management and Programming of Information Systems**
+  - **Professional Aptitude Project (PAP):** Development of a travel website
 
-- **Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro – Norte (ESAN-UA)** (Início: Outubro 2024)
-  - **Curso Técnico Superior Profissional em Tecnologia de Maquinação com Controlo Numérico Computorizado (CNC)**
+- **Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro – Norte (ESAN-UA)** (Started: October 2024)
+  - **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology**
 
-## 🌟 Experiência Profissional
+## 🌟 Professional Experience
 
-- **Associação Estamos Juntos (Julho 2022)** – Estagiário
-  - Gestão de bases de dados e processamento de informação
-  - Desenvolvimento de um site utilizando HTML, PHP, CSS, JavaScript e MySQL
+- **Associação Estamos Juntos (July 2022)** – Intern
+  - Database management and information processing
+  - Developed a website using HTML, PHP, CSS, JavaScript, and MySQL
 
-- **Alvocromático, Lda (Abril - Julho 2023)** – Estagiário
-  - Desenvolvimento e conclusão do backend
-  - Gestão de bases de dados
+- **Alvocromático, Lda (April - July 2023)** – Intern
+  - Developed and completed backend
+  - Database management
 
-- **Campo de Férias do AEJ (Junho - Julho 2023)** – Monitor
-  - Supervisão e organização de atividades recreativas e educativas
+- **Campo de Férias do AEJ (June - July 2023)** – Monitor
+  - Supervised and organized recreational and educational activities
 
-- **Bagga (Maio 2024 - Agosto 2024)** – Operador de Loja
-  - Atendimento ao público, reposição de produtos e gestão do armazém
+- **Bagga (May 2024 - August 2024)** – Store Operator
+  - Customer service, product replenishment, and warehouse management
 
-## 🎨 Hobbies e Interesses
+## 🎨 Hobbies and Interests
 
-- 🏀 Praticar Desporto
-- 💻 Programar
-- 🎨 Desenhar
-- 🎉 Sair com Amigos
+- 🏀 Playing Sports
+- 💻 Programming
+- 🎨 Drawing
+- 🎉 Hanging out with Friends
 
 ---
 
-🌐 **Localização:** Oliveira de Azeméis, Portugal  
+🌐 **Location:** Oliveira de Azeméis, Portugal  
 📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
