@@ -1,33 +1,33 @@
 # **Leonardo Alves**  
-**Location:** Oliveira de Azeméis, Portugal  
-**Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
-**LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)  
-**Instagram:** [@16alves02](https://www.instagram.com/16alves02/)  
-**YouTube:** [@16alves02](https://youtube.com/@16alves02)  
-**Facebook:** [@16alves02](https://www.facebook.com/profile.php?id=61557924755370)
+📍 **Location:** Oliveira de Azeméis, Portugal  
+📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
+🔗 **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)  
+📸 **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)  
+🎥 **YouTube:** [@16alves02](https://youtube.com/@16alves02)  
+📘 **Facebook:** [@16alves02](https://www.facebook.com/profile.php?id=61557924755370)
 
 ---
 
-## **Profile**
+## **👨‍💻 Profile**
 
 I am a highly motivated and technically skilled individual with a background in **Management and Programming of Information Systems**. I am currently pursuing a **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology** to expand my expertise. I possess hands-on experience in **software development**, **database management**, **website creation**, and **CNC technologies**.
 
 ---
 
-## **Technical Skills**
+## **💡 Technical Skills**
 
-### **Programming Languages:**
+### **💻 Programming Languages:**
 - **Java**, **JavaScript**, **HTML**, **CSS**, **C**, **PHP**, **MySQL**
 
-### **Other Technologies:**
+### **⚙️ Other Technologies:**
 - Website development
 - Database management
 - Image processing
 
-### **Tools & Frameworks:**
+### **🛠️ Tools & Frameworks:**
 - **Adobe Photoshop**, **Unity**
 
-### **Soft Skills:**
+### **💪 Soft Skills:**
 - Teamwork and collaboration
 - Problem-solving
 - Backend development
@@ -35,14 +35,14 @@ I am a highly motivated and technically skilled individual with a background in 
 
 ---
 
-## **Languages**
+## **🌍 Languages**
 
 - **Portuguese**: Native  
 - **English**: C1 (Advanced)
 
 ---
 
-## **Academic Background**
+## **🎓 Academic Background**
 
 ### **Escola Secundária Dr. Serafim Leite**  
 **September 2020 – July 2023**  
@@ -57,7 +57,7 @@ I am a highly motivated and technically skilled individual with a background in 
 
 ---
 
-## **Professional Experience**
+## **💼 Professional Experience**
 
 ### **Associação Estamos Juntos** – **Intern**  
 **São João da Madeira | July 2022**  
@@ -79,7 +79,7 @@ I am a highly motivated and technically skilled individual with a background in 
 
 ---
 
-## **Projects**
+## **🛠️ Projects**
 
 ### **TaskTracker** (Public)  
 **Technology**: JavaScript  
@@ -103,9 +103,9 @@ I am a highly motivated and technically skilled individual with a background in 
 
 ---
 
-## **Hobbies and Interests**
+## **🎨 Hobbies and Interests**
 
-- **Sports**: Basketball  
-- **Programming**: Passionate about coding and software development  
-- **Creative Arts**: Drawing and digital design  
-- **Socializing**: Enjoy spending time with friends and participating in social events
+- 🏀 **Sports**: Basketball  
+- 💻 **Programming**: Passionate about coding and software development  
+- 🎨 **Creative Arts**: Drawing and digital design  
+- 🎉 **Socializing**: Enjoy spending time with friends and participating in social events
