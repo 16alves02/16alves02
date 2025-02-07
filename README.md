@@ -8,9 +8,9 @@
 
 ---
 
-## **👨‍💻 Profile**
+## **👨‍💻 Profile Summary**
 
-I am a highly motivated and technically skilled individual with a background in **Management and Programming of Information Systems**. I am currently pursuing a **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology** to expand my expertise. I possess hands-on experience in **software development**, **database management**, **website creation**, and **CNC technologies**.
+I am a dedicated and passionate technology enthusiast with a strong background in **Management and Programming of Information Systems**. Currently, I'm pursuing a **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology**, expanding my expertise in CNC technologies. I have practical experience in **software development**, **database management**, and **website creation**, and I'm constantly looking for new opportunities to apply my skills in dynamic environments.
 
 ---
 
@@ -79,27 +79,56 @@ I am a highly motivated and technically skilled individual with a background in 
 
 ---
 
-## **🛠️ Projects**
+## **🏆 Achievements and Certifications**
+
+- **Diploma of Completion**: Completed the **Technical Course in Management and Programming of Information Systems** at **Escola Secundária Dr. Serafim Leite**, graduating with an average grade of 14.  
+- **Professional Aptitude Project (PAP)**: Developed a **Travel Website**, showcasing skills in **web development** and **database management**.  
+- **Completion of Secondary Education**: Successfully graduated from high school with a focus on programming and system management.
+
+---
+
+## **🛠️ Technologies & Tools with Proficiency Levels**
+
+### **💻 Programming Languages:**
+- **JavaScript**: ⭐⭐⭐⭐⭐
+- **PHP**: ⭐⭐⭐⭐
+- **HTML/CSS**: ⭐⭐⭐⭐⭐
+- **Java**: ⭐⭐⭐
+- **C**: ⭐⭐⭐
+- **MySQL**: ⭐⭐⭐⭐
+
+### **⚙️ Tools & Technologies:**
+- **Adobe Photoshop**: ⭐⭐⭐
+- **Unity**: ⭐⭐⭐
+
+---
+
+## **💻 Projects**
 
 ### **TaskTracker** (Public)  
 **Technology**: JavaScript  
-- Developed a task management application to track and organize personal tasks effectively.
+- Developed a task management application to track and organize personal tasks effectively.  
+- **Impact**: Optimized time management and boosted productivity.
 
 ### **BrainTeasersQuiz** (Public)  
 **Technology**: JavaScript  
-- Created an interactive quiz application to test users' knowledge on various topics, providing an engaging experience.
+- Created an interactive quiz application to test users' knowledge on various topics, providing an engaging experience.  
+- **Impact**: Increased user engagement with fun and challenging content.
 
 ### **CompoundGrowth Calculator** (Public)  
 **Technology**: HTML  
-- Designed a calculator to estimate the compound growth of investments, focusing on user-friendly interface design.
+- Designed a calculator to estimate the compound growth of investments, focusing on user-friendly interface design.  
+- **Impact**: Helped users understand the power of compound interest in financial planning.
 
 ### **NumeralNest-Calculator** (Public)  
 **Technology**: JavaScript  
-- Developed a simple yet functional calculator to perform basic arithmetic operations.
+- Developed a simple yet functional calculator to perform basic arithmetic operations.  
+- **Impact**: Provided a quick solution for performing everyday calculations.
 
 ### **NinjaStick** (Public)  
 **Technology**: JavaScript  
-- Created a fun, web-based game where the player helps a ninja cross platforms by stretching a stick, showcasing game development skills.
+- Created a fun, web-based game where the player helps a ninja cross platforms by stretching a stick, showcasing game development skills.  
+- **Impact**: Gained skills in game mechanics and interactive web elements.
 
 ---
 
@@ -109,3 +138,9 @@ I am a highly motivated and technically skilled individual with a background in 
 - 💻 **Programming**: Passionate about coding and software development  
 - 🎨 **Creative Arts**: Drawing and digital design  
 - 🎉 **Socializing**: Enjoy spending time with friends and participating in social events
+
+---
+
+## **📞 Let's Connect!**
+
+Feel free to reach out if you're interested in collaborating on a project, discussing technology trends, or exploring career opportunities! You can contact me through my social media links or directly via email at [16alves02@gmail.com](mailto:16alves02@gmail.com).
