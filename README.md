@@ -1,71 +1,111 @@
-# Hello, I'm Leonardo Alves! 👋🏼
-
-I am a young technology enthusiast with a background in **Management and Programming of Information Systems**. Currently, I am expanding my knowledge in **Computerized Numerical Control (CNC) Machining Technology**. I have experience in software development, database management, and website creation.
-
-## 🌟 My Skills 🌟
-
-### 💻 Technologies and Tools:
-
-- **Programming Languages:** Java, JavaScript, HTML, CSS, C, PHP, MySQL
-- **Other Technologies:** Website development, database management, image processing
-- **Tools:** Adobe Photoshop, Unity
-
-### 🔧 Additional Skills:
-
-- Teamwork
-- Problem-solving abilities
-- Backend development
-- Web project creation and management
-
-## 📊 My GitHub Stats 📊
-<br/>
-
-![16alves02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=16alves02&show_icons=true&theme=radical)
-
-## 🌐 Connect With Me 🌐
-
-[![Instagram](https://img.shields.io/badge/Instagram-16alves02-EB4520?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/16alves02/)
-[![Youtube](https://img.shields.io/badge/Youtube-16alves02-EB4520?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@16alves02)
-[![Facebook](https://img.shields.io/badge/Facebook-16alves02-EB4520?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/profile.php?id=61557924755370)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
-
-## 🎧 My Latest Playlist 🎧
-
-Check out my playlist on [Spotify](https://open.spotify.com/playlist/0GtMMKwGHyX69Us8GUhi0q?si=d43893fa6dd24064).
-
-## 🎓 Academic Background
-
-- **Escola Secundária Dr. Serafim Leite** (2020 - 2023)
-  - Technical Course in **Management and Programming of Information Systems**
-  - **Professional Aptitude Project (PAP):** Development of a travel website
-
-- **Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro – Norte (ESAN-UA)** (Started: October 2024)
-  - **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology**
-
-## 🌟 Professional Experience
-
-- **Associação Estamos Juntos (July 2022)** – Intern
-  - Database management and information processing
-  - Developed a website using HTML, PHP, CSS, JavaScript, and MySQL
-
-- **Alvocromático, Lda (April - July 2023)** – Intern
-  - Developed and completed backend
-  - Database management
-
-- **Campo de Férias do AEJ (June - July 2023)** – Monitor
-  - Supervised and organized recreational and educational activities
-
-- **Bagga (May 2024 - August 2024)** – Store Operator
-  - Customer service, product replenishment, and warehouse management
-
-## 🎨 Hobbies and Interests
-
-- 🏀 Playing Sports
-- 💻 Programming
-- 🎨 Drawing
-- 🎉 Hanging out with Friends
+# **Leonardo Alves**  
+**Location:** Oliveira de Azeméis, Portugal  
+**Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
+**LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)  
+**Instagram:** [@16alves02](https://www.instagram.com/16alves02/)  
+**YouTube:** [@16alves02](https://youtube.com/@16alves02)  
+**Facebook:** [@16alves02](https://www.facebook.com/profile.php?id=61557924755370)
 
 ---
 
-🌐 **Location:** Oliveira de Azeméis, Portugal  
-📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
+## **Profile**
+
+I am a highly motivated and technically skilled individual with a background in **Management and Programming of Information Systems**. I am currently pursuing a **Higher Technical Professional Course in Computerized Numerical Control (CNC) Machining Technology** to expand my expertise. I possess hands-on experience in **software development**, **database management**, **website creation**, and **CNC technologies**.
+
+---
+
+## **Technical Skills**
+
+### **Programming Languages:**
+- **Java**, **JavaScript**, **HTML**, **CSS**, **C**, **PHP**, **MySQL**
+
+### **Other Technologies:**
+- Website development
+- Database management
+- Image processing
+
+### **Tools & Frameworks:**
+- **Adobe Photoshop**, **Unity**
+
+### **Soft Skills:**
+- Teamwork and collaboration
+- Problem-solving
+- Backend development
+- Web project management
+
+---
+
+## **Languages**
+
+- **Portuguese**: Native  
+- **English**: C1 (Advanced)
+
+---
+
+## **Academic Background**
+
+### **Escola Secundária Dr. Serafim Leite**  
+**September 2020 – July 2023**  
+- **Course**: Technical Course in **Management and Programming of Information Systems**  
+- **Professional Aptitude Project (PAP)**: Developed a **Travel Website**, demonstrating skills in web development and database integration.  
+- **Graduation**: Completed with an average grade of 14.
+
+### **Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro – Norte (ESAN-UA)**  
+**Started: October 2024**  
+- **Course**: Higher Technical Professional Course in **Computerized Numerical Control (CNC) Machining Technology**  
+- Currently expanding knowledge in **CNC**, gaining technical expertise in machining and numerical control systems.
+
+---
+
+## **Professional Experience**
+
+### **Associação Estamos Juntos** – **Intern**  
+**São João da Madeira | July 2022**  
+- Managed databases and processed information related to holiday camp registrations.  
+- Developed a website using **HTML**, **PHP**, **CSS**, **JavaScript**, and **MySQL**, enhancing skills in **web design**, **image processing**, and **database management**.
+
+### **Alvocromático, Lda** – **Intern**  
+**São Félix da Marinha | April – July 2023 (Remote)**  
+- Developed and completed the backend of a web system, ensuring its functionality and efficiency.  
+- Participated in **database management** and optimized system performance.
+
+### **Campo de Férias do AEJ** – **Monitor**  
+**June – July 2023**  
+- Supervised and organized recreational and educational activities for children, honing leadership and interpersonal skills.
+
+### **Bagga** – **Store Operator**  
+**São João da Madeira | May – August 2024**  
+- Provided **customer service**, managed product replenishment, and maintained inventory in the store, contributing to a well-organized and efficient retail environment.
+
+---
+
+## **Projects**
+
+### **TaskTracker** (Public)  
+**Technology**: JavaScript  
+- Developed a task management application to track and organize personal tasks effectively.
+
+### **BrainTeasersQuiz** (Public)  
+**Technology**: JavaScript  
+- Created an interactive quiz application to test users' knowledge on various topics, providing an engaging experience.
+
+### **CompoundGrowth Calculator** (Public)  
+**Technology**: HTML  
+- Designed a calculator to estimate the compound growth of investments, focusing on user-friendly interface design.
+
+### **NumeralNest-Calculator** (Public)  
+**Technology**: JavaScript  
+- Developed a simple yet functional calculator to perform basic arithmetic operations.
+
+### **NinjaStick** (Public)  
+**Technology**: JavaScript  
+- Created a fun, web-based game where the player helps a ninja cross platforms by stretching a stick, showcasing game development skills.
+
+---
+
+## **Hobbies and Interests**
+
+- **Sports**: Basketball  
+- **Programming**: Passionate about coding and software development  
+- **Creative Arts**: Drawing and digital design  
+- **Socializing**: Enjoy spending time with friends and participating in social events
