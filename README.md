@@ -1,5 +1,5 @@
 # **Leonardo Alves**  
-📍 **Location:** Oliveira de Azeméis, Portugal  
+📍 **Location:** Portugal 🇵🇹
 📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
 🔗 **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)  
 📸 **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)  
