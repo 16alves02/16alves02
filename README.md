@@ -1,5 +1,17 @@
 # Leonardo Alves
 
+<!-- Tech Badges -->
+![PHP](https://img.shields.io/badge/PHP-8.0-blue?logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-5.7-4479a1?logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
+![Java](https://img.shields.io/badge/Java-17-red?logo=java)
+![C](https://img.shields.io/badge/C-ISO/ANSI-blue?logo=c)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+
 ## 📬 Contact
 - **Location:** Portugal
 - **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
@@ -75,7 +87,9 @@ I’m an aspiring software developer with a solid foundation in **Information Sy
 
 ## 🚀 Projects
 
-> *First project coming soon!* Stay tuned for my debut repository showcasing a full-stack web application with modern best practices.
+> _First project coming soon!_
+
+Reveal soon: full-stack web application demonstrating best practices and clean code.
 
 ---
 
