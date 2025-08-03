@@ -1,10 +1,12 @@
 # Leonardo Alves
 
 ## 📬 Contact
+- **Location:** Portugal
 - **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
-- **LinkedIn:** [linkedin.com/in/leonardo-alves-502ba8291](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
+- **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
 - **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)
-- **YouTube:** [@16alves02](https://youtube.com/@16alves02)
+- **YouTube:** [@16alves02](https://www.youtube.com/@16alves02)
+- **Facebook:** [@16alves02](https://www.facebook.com/profile.php?id=61557924755370)
 
 ---
 
