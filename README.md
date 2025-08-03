@@ -1,52 +1,84 @@
 # Leonardo Alves
 
-## Contact
-- 📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
-- 🔗 **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
-- 📸 **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)
-- 🎥 **YouTube:** [@16alves02](https://youtube.com/@16alves02)
+## 📬 Contact
+- **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
+- **LinkedIn:** [linkedin.com/in/leonardo-alves-502ba8291](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
+- **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)
+- **YouTube:** [@16alves02](https://youtube.com/@16alves02)
+
+---
 
 ## 👨‍💻 About Me
-I am a tech enthusiast with a background in **Information Systems Management and Programming**. Currently, I am expanding my expertise in **CNC Machining Technology** while maintaining a strong foundation in **software development**, **database management**, and **web development**. Passionate about coding, problem-solving, and working on innovative projects.
+I’m an aspiring software developer with a solid foundation in **Information Systems Management and Programming**. Currently, I’m transitioning into professional development by pursuing a **CTESP in Software Development** (ESAN-UA / ISEP). I thrive on building clean, efficient code, solving complex problems, and bringing innovative ideas to life.
+
+---
 
 ## 💡 Technical Skills
-### Programming Languages:
-- **JavaScript**, **PHP**, **HTML**, **CSS**, **Java**, **C**, **MySQL**
 
-### Technologies & Tools:
-- **Web Development** | **Database Management** | **Backend Development**
-- **Adobe Photoshop** | **Unity**
+### Languages
+- JavaScript (ES6+)
+- PHP
+- Java
+- C
+- HTML5 & CSS3
+- SQL (MySQL)
 
-### Soft Skills:
-- Teamwork & Collaboration  
-- Problem-Solving  
-- Project Management  
+### Frameworks & Tools
+- **Frontend:** React, Vue (basics)
+- **Backend:** Node.js, Express, Laravel (basics)
+- **Databases:** MySQL, SQLite
+- **Other:** Git & GitHub, Docker (basics)
+
+### Soft Skills
+- Strong problem-solving mindset
+- Effective communication & teamwork
+- Agile methodologies & project management
+
+---
 
 ## 🎓 Education
-### Higher Technical Professional Course in CNC Machining Technology
-- **ESAN-UA | Since October 2024**
 
-### Technical Course in Management and Programming of Information Systems
-- **Escola Secundária Dr. Serafim Leite | 2020 - 2023**  
-- **Final Project:** Developed a **Travel Website**, showcasing web development & database integration skills.
+**CTESP in Software Development** (In progress)
+- ESAN-UA or ISEP (Starting Fall 2025)
+
+**Technical Course in Management & Programming of Information Systems**
+- Escola Secundária Dr. Serafim Leite (2020–2023)
+  - Final Project: Travel website demonstrating full-stack web development and database integration
+
+---
 
 ## 💼 Experience
-### Intern | Alvocromático, Lda (Remote)
-*April - July 2023*  
-- Developed and completed the **backend** of a web system.  
-- Managed **databases** and optimized system performance.  
 
-### Intern | Associação Estamos Juntos
-*July 2022*  
-- Developed a website using **HTML, PHP, CSS, JavaScript, and MySQL**.  
-- Managed **databases** and handled **image processing**.  
+**CNC Operator** | Schmidt Light Metal - Fundição Injectada, Lda (DMM)
+*Feb 2025 – Present*
+- Load workpieces onto CNC machine and secure fixtures
+- Perform visual inspection of machined parts
+- Deburr and clean components
+- Package finished parts for delivery to VW Group clients
 
-### Store Operator | Bagga
-*May - August 2024*  
-- Customer service, product management, and inventory control.
+**Store Operator** | Bagga
+*May 2024 – Aug 2024*
+- Delivered exceptional customer service and managed inventory processes
+- Streamlined point-of-sale operations and assisted with product logistics
 
-## 📞 Let's Connect!
-Feel free to reach out for collaborations, tech discussions, or career opportunities!
-- 📧 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
-- 🔗 **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
+**Intern, Backend Developer** | Alvocromático, Lda (Remote)
+*Apr 2023 – Jul 2023*
+- Built RESTful APIs and optimized database queries for performance
+- Implemented authentication flows and maintained API documentation
 
+**Web Developer Intern** | Associação Estamos Juntos
+*Jul 2022*
+- Developed front-end features with HTML, CSS, and vanilla JavaScript
+- Managed MySQL databases and handled dynamic image processing tasks
+
+## 🚀 Projects
+
+> *First project coming soon!* Stay tuned for my debut repository showcasing a full-stack web application with modern best practices.
+
+---
+
+## 📈 GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=16alves02&show_icons=true&theme=github_dark)
+
+```
