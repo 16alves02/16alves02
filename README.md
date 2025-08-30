@@ -1,102 +1,32 @@
-# 👋 Hi, I'm Leonardo Alves
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Leonardo Alves
+=======================================================================================================================================
 
-<!-- Tech Badges -->
-![PHP](https://img.shields.io/badge/PHP-8.0-blue?logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-5.7-4479a1?logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Vue](https://img.shields.io/badge/Vue.js-Basic-brightgreen?logo=vue.js)
-![Nuxt](https://img.shields.io/badge/Nuxt-Basic-00DC82?logo=nuxt.js)
-![Java](https://img.shields.io/badge/Java-17-red?logo=java)
-![C](https://img.shields.io/badge/C-ISO/ANSI-blue?logo=c)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+Aspiring Full-Stack Developer & Designer
+----------------------------------------
 
----
+I've been diving into programming for a few years, starting with HTML and CSS, moving to backend development with PHP and Java, and now exploring modern frameworks like React, Vue, and Nuxt. I love building clean, efficient code and turning ideas into real projects.
 
-## 📬 Contact
-- **Location:** Portugal  
-- **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
-- **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/leonardo-alves-502ba8291/)  
-- **Instagram:** [@16alves02](https://www.instagram.com/16alves02/)  
-- **YouTube:** [@16alves02](https://www.youtube.com/@16alves02)  
-- **Facebook:** [@16alves02](https://www.facebook.com/profile.php?id=61557924755370)  
+* 🌍  I'm based in Portugal
+* ✉️  You can contact me at [16alves02](mailto:16alves02)
+* 🧠  I'm currently learning A new JS framework (Nuxt & advanced React patterns)
+* 👥  I'm looking to collaborate on Interesting full-stack projects, APIs, and innovative web apps
+* 💬  Ask me about Secretly a coding Spider-Man 🕷️… but shhh, don’t tell anyone
 
----
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+### Badges
 
-## 👨‍💻 About Me
-I’m an aspiring software developer with a solid foundation in **Information Systems Management and Programming**. Currently, I’m transitioning into professional development by pursuing a **CTESP in Software Development**. I thrive on building clean, efficient code, solving complex problems, and bringing innovative ideas to life.
+<a href="https://github.com/16alves02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16alves02&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
----
 
-## 💡 Technical Skills
+### Socials
 
-### Languages
-- JavaScript (ES6+)  
-- PHP  
-- Java  
-- C  
-- HTML5 & CSS3  
-- SQL (MySQL)  
+<p align="left"> <a href="https://www.github.com/16alves02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@16alvesd02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@16alves02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/16alves02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Support Me
 
-### Frameworks & Tools
-- **Frontend:** React, Vue (beginner+), Nuxt (beginner)  
-- **Databases:** MySQL  
-- **Other:** Git & GitHub, Docker (basic)  
+<ul style="list-style-type: none; margin: 0;">
 
-### Soft Skills
-- Strong problem-solving mindset  
-- Effective communication & teamwork  
-- Agile methodologies & project management  
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/16alves02"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
----
-
-## 🎓 Education
-
-**CTESP in Software Development** (In progress)  
-- ESAN-UA (Starting Fall 2025)  
-
-**Technical Course in Management & Programming of Information Systems**  
-- Escola Secundária Dr. Serafim Leite (2020–2023)  
-  - Final Project: Travel website demonstrating full-stack development and database integration  
-
----
-
-## 💼 Experience
-
-**CNC Operator** | Schmidt Light Metal - Fundição Injectada, Lda  
-*Feb 2025 – Present*  
-- Load workpieces onto CNC machine and secure fixtures  
-- Perform visual inspection of machined parts  
-- Deburr, clean, and package finished components for VW Group clients  
-
-**Store Operator** | Bagga  
-*May 2024 – Aug 2024*  
-- Delivered customer service and managed inventory  
-- Streamlined POS operations and assisted with logistics  
-
-**Backend Developer Intern** | Alvocromático, Lda (Remote)  
-*Apr 2023 – Jul 2023*  
-- Built RESTful APIs and optimized database queries  
-- Implemented authentication flows and maintained API documentation  
-
-**Web Developer Intern** | Associação Estamos Juntos  
-*Jul 2022*  
-- Developed front-end features with HTML, CSS, and JavaScript  
-- Managed MySQL databases and dynamic image processing tasks  
-
----
-
-## 🚀 Projects 
-
-**Array Sorting (C)**  
-- Implemented basic sorting algorithms from scratch  
-
-*More projects coming soon!*
-
----
-
-## 📈 GitHub Stats
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=16alves02&show_icons=true&theme=github_dark)
+</ul>
