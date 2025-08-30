@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
 ![Java](https://img.shields.io/badge/Java-17-red?logo=java)
 ![C](https://img.shields.io/badge/C-ISO/ANSI-blue?logo=c)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
@@ -39,8 +38,7 @@ I’m an aspiring software developer with a solid foundation in **Information Sy
 
 ### Frameworks & Tools
 - **Frontend:** React, Vue (basics)
-- **Backend:** Node.js, Express, Laravel (basics)
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL
 - **Other:** Git & GitHub, Docker (basics)
 
 ### Soft Skills
@@ -53,7 +51,7 @@ I’m an aspiring software developer with a solid foundation in **Information Sy
 ## 🎓 Education
 
 **CTESP in Software Development** (In progress)
-- ESAN-UA or ISEP (Starting Fall 2025)
+- ESAN-UA (Starting Fall 2025)
 
 **Technical Course in Management & Programming of Information Systems**
 - Escola Secundária Dr. Serafim Leite (2020–2023)
