@@ -29,7 +29,7 @@ I've been coding since 2020, starting with HTML, CSS, PHP, and Java. Right now, 
 
 ## 🌐 Socials  
 
-[GitHub](https://www.github.com/16alves02) · [GitLab](https://www.gitlab.com/16alves02) · [Twitter](https://www.x.com/16alves02) · [Threads](https://www.threads.net/@16alves02) · [LinkedIn](https://www.linkedin.com/in/leonardo-alves-502ba8291/) · [Twitch](https://www.twitch.tv/16alves02) · [YouTube](https://www.youtube.com/@16alves02) · [CodePen](https://www.codepen.io/16alves02) · [Discord](https://discord.com/users/16alves02) · [Dribbble](https://www.dribbble.com/16alves02) · [Facebook](https://www.facebook.com/16alves02)  
+[GitHub](https://www.github.com/16alves02) · [GitLab](https://www.gitlab.com/16alves02) · [Threads](https://www.threads.net/@16alves02) · [LinkedIn](https://www.linkedin.com/in/leonardo-alves-502ba8291/) · [Twitch](https://www.twitch.tv/16alves02) · [YouTube](https://www.youtube.com/@16alves02) · [CodePen](https://www.codepen.io/16alves02) · [Discord](https://discord.com/users/16alves02) · [Dribbble](https://www.dribbble.com/16alves02) · [Facebook](https://www.facebook.com/16alves02)  
 
 ## ☕ Support Me  
 
