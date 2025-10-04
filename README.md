@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Leonardo Alves
-=======================================================================================================================================
+# 👋 Hi, I'm Leonardo Alves ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Tech Enthusiast
----------------
+### Aspiring Software Developer & Tech Enthusiast  
 
-I've been coding since 2020, starting with HTML, CSS, PHP, and Java. Right now, I’m exploring frontend frameworks and building small projects to level up my skills. Always curious and ready to improve.
+Coding since 2020, started with HTML, CSS, PHP, and Java. Currently working as a **CNC Programmer & Operator**, while pursuing a **Higher Technical Professional Course in Software Development**. Exploring modern frontend frameworks and technologies like **React, Vue, Nuxt, Vite, and TailwindCSS** to expand skills and prepare for a career in software development.  
 
-* 🌍  I'm based in Portugal  
-* ✉️  You can contact me at [16alves02@gmail.com](mailto:16alves02@gmail.com)  
-* 🧠  I'm currently learning React, Vue, Nuxt, Vite, and TailwindCSS – building small projects to practice and grow.  
-* 👥  I'm looking to collaborate on small web projects, frontend experiments, and learning projects where I can practice and improve my skills.  
-* 💬  Ask me about basketball, video games, traveling, music, and movies — basically anything that keeps life interesting. 🎮🏀✈️🎶🍿  
+* 🌍 Based in Portugal  
+* 🧠 Continuously learning and improving in frontend and full-stack development  
+* 👥 Open to collaborate on web projects and frontend experiments  
+* 💬 Ask me about basketball, video games, traveling, music, and movies 🎮🏀✈️🎶🍿  
+
+---
 
 ## 🛠️ Skills  
 
@@ -25,11 +24,50 @@ I've been coding since 2020, starting with HTML, CSS, PHP, and Java. Right now, 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" width="36" height="36"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" width="36" height="36"/></a>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" title="Nuxt" width="36" height="36"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite" width="36" height="36"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS" width="36" height="36"/></a>
 </p>
 
-## 🌐 Socials  
+---
 
-[GitHub](https://www.github.com/16alves02) · [GitLab](https://www.gitlab.com/16alves02) · [Threads](https://www.threads.net/@16alves02) · [LinkedIn](https://www.linkedin.com/in/leonardo-alves-502ba8291/) · [Twitch](https://www.twitch.tv/16alves02) · [YouTube](https://www.youtube.com/@16alves02) · [CodePen](https://www.codepen.io/16alves02) · [Discord](https://discord.com/users/16alves02) · [Dribbble](https://www.dribbble.com/16alves02) · [Facebook](https://www.facebook.com/16alves02)  
+## 💼 Experience
+
+- **CNC Programmer & Operator** – Hands-on experience in production and technical environments.  
+- **Internships in Systems Development & Management** – Exposure to software development, system maintenance, and database management.  
+- **Monitor & Retail Operator** – Supervised recreational activities, provided customer service, and managed store operations.  
+
+> Note: Specific projects completed during internships or academic assignments are not disclosed due to confidentiality agreements.  
+
+---
+
+## 🎓 Education
+
+- Currently pursuing a **Higher Technical Professional Course in Software Development**  
+- Completed a **Technical Course in Systems Management & Programming**  
+
+---
+
+## 🌱 Learning & Growth
+
+- Continuously exploring modern frontend technologies and frameworks.  
+- Practicing coding, responsive design, and interactive UI development to prepare for a career in software development.  
+
+---
+
+## 🌐 Socials & Portfolio
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/16alves02)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/16alves02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alves-502ba8291/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@16alves02)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/16alves02)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/16alves02)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/16alves02)
+
+---
 
 ## ☕ Support Me  
 
