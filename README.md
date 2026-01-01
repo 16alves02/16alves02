@@ -2,7 +2,7 @@
 
 ### Aspiring Software Developer & Tech Enthusiast  
 
-Coding since 2020, started with HTML, CSS, PHP, and Java. Currently working as a **CNC Programmer & Operator**, while pursuing a **Higher Technical Professional Course in Software Development**. Exploring modern frontend frameworks and technologies like **React, Vue, Nuxt, Vite, and TailwindCSS** to expand skills and prepare for a career in software development.  
+Coding since 2020, started with HTML, CSS, PHP, and Java. Currently working as a **CNC Programmer & Operator**, while pursuing a **Higher Technical Professional Course in Software Development**. Exploring modern frontend frameworks and technologies like **React, Vue, Nuxt, Vite, Python and TailwindCSS** to expand skills and prepare for a career in software development.  
 
 * 🌍 Based in Portugal  
 * 🧠 Continuously learning and improving in frontend and full-stack development  
