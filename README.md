@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/900x200/FF813F/FFFFFF?text=Leonardo+Alves)
+![Header](https://placehold.co/900x200/FF813F/FFFFFF?text=Leonardo+Alves)
 
 # 👋 Hi, I'm Leonardo Alves
 
