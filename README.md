@@ -1,5 +1,3 @@
-![Header](https://placehold.co/900x200/FF813F/FFFFFF?text=Leonardo+Alves)
-
 # 👋 Hi, I'm Leonardo Alves
 
 ### Software Development Student 💻 | Curious, hands-on, and always learning
