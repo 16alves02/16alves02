@@ -46,7 +46,7 @@ I love building real projects, experimenting with code, and learning by doing.
 
 ## 🔹 Featured Projects
 
-### **HOOP — Basketball E-Commerce**
+### **HOOP - Basketball E-Commerce**
 - React + TypeScript, Vite, Context API  
 - Simulated e-commerce with cart, favorites, checkout, filters  
 - [Live Demo](https://hoop-16alves02.netlify.app) | [GitHub](https://github.com/16alves02/hoop)
