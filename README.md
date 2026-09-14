@@ -73,4 +73,4 @@ I love building real projects, experimenting with code, and learning by doing.
 
 ---
 
-*Made with ❤️ and curiosity by Leonardo Alves*  
+*Made by Leonardo Alves*  
