@@ -2,7 +2,7 @@
 
 ### Software Development Student 💻 | Curious, hands-on, and always learning
 
-I'm a student exploring all aspects of software development — from apps and web to backend and design.  
+I'm a student exploring all aspects of software development - from apps and web to backend and design.  
 I love building real projects, experimenting with code, and learning by doing.
 
 ---
