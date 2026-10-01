@@ -17,19 +17,40 @@
   <a href="https://www.instagram.com/16alves02/">Instagram</a>
   ·
   <a href="https://www.youtube.com/@16alves02">YouTube</a>
+  ·
+  <a href="https://uiverse.io/16alves02">Uiverse</a>
 </p>
 
 ---
 
 ## 👨‍💻 About
 
-I'm a software development student based in Portugal, focused on turning ideas into working software.
+I'm a software developer based in Portugal, currently studying software development and building my experience through real projects.
 
-My projects are where I put that into practice, from responsive web interfaces and e-commerce experiences to mobile applications, APIs and programming fundamentals.
+I work across responsive web interfaces, frontend applications, mobile development, REST APIs and databases. My projects range from small programming exercises to complete application experiences built from an idea into something usable.
 
-I care about **clean interfaces, useful features and learning how things work beyond the surface**.
+I care about clean interfaces, useful features and understanding how things work beyond the surface.
 
 > Build it. Understand it. Improve it.
+
+---
+
+## 💼 Freelance
+
+I'm opening **16alves02** to freelance work and selected client projects.
+
+I can help with:
+
+- Responsive websites and landing pages
+- Frontend web applications
+- Small business websites and digital tools
+- Custom software for specific workflows
+- REST APIs and database-backed features
+- UI implementation and frontend improvements
+
+The goal is not to sell generic packages. Each project is scoped around what actually needs to be built, the available budget and the technical requirements.
+
+**Freelance status:** Open to selected projects.
 
 ---
 
@@ -120,15 +141,23 @@ Some projects are polished experiments. Others are part of the learning process.
 
 ---
 
+## 🎨 UI & Experiments
+
+Before focusing on larger applications, I also published frontend experiments and CSS patterns through Uiverse.
+
+[View my Uiverse profile](https://uiverse.io/16alves02)
+
+---
+
 ## 🎯 Current Focus
 
-**Software development · Web · Mobile · Backend · Databases · UI**
+**Software development · Freelance · Web · Mobile · Backend · Databases · UI**
 
-I'm currently expanding my experience across the full development process, from designing an interface and structuring an application to connecting APIs, databases and real functionality.
+I'm currently expanding my experience across the full development process, while starting to take on freelance projects and building the public side of the **16alves02** brand.
 
 ---
 
 <p align="center">
   <strong>16alves02</strong><br>
-  <sub>Software · Projects · Learning</sub>
+  <sub>Software · Projects · Freelance</sub>
 </p>
