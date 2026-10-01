@@ -1,7 +1,7 @@
 # 16alves02
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves — developer banner" width="100%">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - developer banner" width="100%">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 I'm a software developer who likes **building real things and learning by doing**.
 
-I enjoy turning ideas into interfaces, applications and experiments — from frontend projects to mobile apps, APIs and everything in between.
+I enjoy turning ideas into interfaces, applications and experiments - from frontend projects to mobile apps, APIs and everything in between.
 
 I'm still figuring things out.
 
@@ -95,7 +95,7 @@ A management system for small bakeries and pastry shops.
 
 **Kotlin · PHP · MySQL · REST API**
 
-Currently in development — not published as a repository yet.
+Currently in development - not published as a repository yet.
 
 ---
 
