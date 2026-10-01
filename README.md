@@ -1,79 +1,112 @@
 # 16alves02
 
-<p align="center"><img src="https://raw.githubusercontent.com/16alves02/16alves02/main/leo-ascii.svg" alt="16alves02 terminal identity" width="760"></p>
-<p align="center"><b>Leonardo Alves</b> · Software Developer · Portugal</p>
-<p align="center"><a href="https://github.com/16alves02">GitHub</a> · <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a> · <a href="https://www.instagram.com/16alves02/">Instagram</a> · <a href="https://www.youtube.com/@16alves02">YouTube</a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves — developer banner" width="100%">
+</p>
+
+<p align="center">
+  <b>Software Developer · Portugal</b><br>
+  Building things, learning things, and occasionally breaking things.
+</p>
+
+<p align="center">
+  <a href="https://github.com/16alves02">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a>
+  ·
+  <a href="https://www.instagram.com/16alves02/">Instagram</a>
+  ·
+  <a href="https://www.youtube.com/@16alves02">YouTube</a>
+</p>
 
 ---
 
-### ~/identity
+## About
 
-I use **16alves02** as my personal developer identity.
+I'm a software developer who likes **building real things and learning by doing**.
 
-I build projects to learn, experiment and turn ideas into working software — from web interfaces and small utilities to larger applications.
+I enjoy turning ideas into interfaces, applications and experiments — from frontend projects to mobile apps, APIs and everything in between.
 
-> **Build it. Break it. Learn it. Improve it.**
+I'm still figuring things out.
 
----
-
-### ~/activity
-
-<img src="https://raw.githubusercontent.com/16alves02/16alves02/main/info-card.svg" alt="16alves02 activity card" width="760">
+**That's kind of the point.**
 
 ---
 
-### ~/projects
+## Tech Stack
 
-| Project | Stack | Status |
-|---|---|---|
-| [**HOOP**](https://github.com/16alves02/hoop) | React · TypeScript · Vite | Live |
-| [**Todo App**](https://github.com/16alves02/todo-app) | HTML · CSS · JavaScript | Live |
-| [**ArraySorting**](https://github.com/16alves02/ArraySorting) | C | Complete |
-| [**RAW App**](https://github.com/16alves02/raw-app) | App development | Experimental |
-| **SaborGest** | Kotlin · PHP · MySQL | In development |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,kotlin,php,python,js,ts,html,css" alt="Languages">
+</p>
 
-**SaborGest** is an individual academic project currently under development. It is not published as a repository yet.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio,mysql,git,github,vscode" alt="Web, mobile, data and tools">
+</p>
 
 ---
 
-### ~/stack
+## Selected Work
 
-**Languages**
+### 🏀 HOOP
 
-C · Java · Kotlin · PHP · Python · JavaScript · TypeScript · HTML · CSS
+A basketball e-commerce experience built with React and TypeScript.
 
-**Web & App**
+**React · TypeScript · Vite**
 
-React · Vite · Tailwind CSS · Android Studio
-
-**Backend & Data**
-
-REST APIs · PHP · MySQL · MariaDB
-
-**Tools**
-
-Git · GitHub · Bruno · VS Code
+[Live Demo](https://hoop-16alves02.netlify.app) · [Repository](https://github.com/16alves02/hoop)
 
 ---
 
-### ~/contributions
+### ⚡ RAW.
 
-<p align="center"><img src="https://raw.githubusercontent.com/16alves02/16alves02/main/contrib-heatmap.svg" alt="GitHub contribution activity" width="760"></p>
+A social conversation experience built around honest questions, interaction and experimentation.
 
-<p align="center"><sub>Contribution artwork generated automatically by this profile repository.</sub></p>
+**React · Tailwind CSS · Framer Motion · Vite**
+
+[Live Demo](https://raw-app-bice.vercel.app) · [Repository](https://github.com/16alves02/raw-app)
 
 ---
 
-### ~/outside-the-terminal
+### ✅ Todo App
+
+A lightweight task manager focused on clean UI, responsive interaction and browser persistence.
+
+**HTML · CSS · JavaScript**
+
+[Live Demo](https://todo-app-three-beta-56.vercel.app) · [Repository](https://github.com/16alves02/todo-app)
+
+---
+
+### 🔢 ArraySorting
+
+A small C project exploring classic sorting algorithms and programming fundamentals.
+
+**C · Algorithms · Data Structures**
+
+[Repository](https://github.com/16alves02/ArraySorting)
+
+---
+
+## Currently Building
+
+### SaborGest
+
+A management system for small bakeries and pastry shops.
+
+**Kotlin · PHP · MySQL · REST API**
+
+Currently in development — not published as a repository yet.
+
+---
+
+## Beyond Code
 
 🏀 Basketball · 🎬 Movies · 🎮 Gaming · 🎵 Music · ✈️ Travel
 
----
-
-### ~/connect
-
-<p align="left"><a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/16alves02/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.youtube.com/@16alves02"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.twitch.tv/16alves02"><img src="https://img.shields.io/badge/Twitch-111111?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a></p>
+I spend a suspicious amount of time watching films and thinking about new projects.
 
 ---
 
-<sub>16alves02 · personal developer identity</sub>
+<p align="center">
+  <sub>built with curiosity · maintained with caffeine · 16alves02</sub>
+</p>
