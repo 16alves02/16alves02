@@ -26,10 +26,10 @@ I build projects to learn, experiment and turn ideas into working software — f
 
 | Project | Stack | Status |
 |---|---|---|
-| **HOOP** | React · TypeScript · Vite | Live |
-| **Todo App** | HTML · CSS · JavaScript | Live |
-| **ArraySorting** | C | Complete |
-| **RAW App** | App development | Experimental |
+| [**HOOP**](https://github.com/16alves02/hoop) | React · TypeScript · Vite | Live |
+| [**Todo App**](https://github.com/16alves02/todo-app) | HTML · CSS · JavaScript | Live |
+| [**ArraySorting**](https://github.com/16alves02/ArraySorting) | C | Complete |
+| [**RAW App**](https://github.com/16alves02/raw-app) | App development | Experimental |
 | **SaborGest** | Kotlin · PHP · MySQL | In development |
 
 **SaborGest** is an individual academic project currently under development. It is not published as a repository yet.
