@@ -58,14 +58,14 @@ The goal is not to sell generic packages. Each project is scoped around what act
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | C · Java · Kotlin · PHP · Python · JavaScript · TypeScript |
+| **Languages** | C · Kotlin · PHP · Python · JavaScript · TypeScript |
 | **Web** | HTML · CSS · React · Vite · Tailwind CSS |
 | **Mobile** | Kotlin · Android Studio |
 | **Backend & Data** | PHP · REST APIs · MySQL |
 | **Tools** | Git · GitHub · VS Code · Bruno |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,kotlin,php,python,js,ts,html,css,react,vite,tailwind,androidstudio,mysql,git,github,vscode" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=c,kotlin,php,python,js,ts,html,css,react,vite,tailwind,androidstudio,mysql,git,github,vscode" alt="Technology stack">
 </p>
 
 ---
