@@ -1,88 +1,54 @@
-<!--
-  16alves02 | GitHub profile
-  Terminal-inspired, minimal, and based on real projects.
--->
+<!-- 16alves02 | GitHub profile -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/feat/terminal-profile-readme/assets/developer-banner.svg" alt="16alves02 terminal profile" width="100%">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="16alves02 terminal profile" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/16alves02">GitHub</a> ·
+  <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/16alves02/">Instagram</a> ·
-  <a href="https://www.youtube.com/@16alves02">YouTube</a> ·
-  <a href="https://uiverse.io/16alves02">Uiverse</a>
+  <a href="https://uiverse.io/16alves02">Uiverse</a> ·
+  <a href="mailto:16alves02@gmail.com">Email</a>
 </p>
 
 ---
 
-### `$ whoami`
+## About
 
-Software development student based in Portugal, learning by building practical web, mobile, and software projects.
+I'm Leonardo Alves, a software development student based in Portugal. I use personal and academic projects to put what I'm learning into practice, from web interfaces and mobile apps to APIs and database-backed systems.
 
-I care about clear interfaces, useful features, and understanding how an application works from the interface to its data.
+I'm especially interested in building software that is clear to use and useful beyond a demo.
 
-```text
-user      : 16alves02
-location  : Portugal
-role      : Software Development Student
-interests : Web · Mobile · APIs · Databases · UI
-status    : Learning, building, improving
-```
+## Selected projects
 
-### `$ ls ./projects`
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [HOOP](https://github.com/16alves02/hoop) | A basketball shop interface with product browsing, a cart and a shopping flow. | React, TypeScript, Vite, Context API |
+| [RAW.](https://github.com/16alves02/raw-app) | A social conversation project built around interactive formats and game modes. | React, Tailwind CSS, Framer Motion, Vite |
+| [Todo App](https://github.com/16alves02/todo-app) | A task manager with filtering and browser-based persistence. | HTML, CSS, JavaScript, LocalStorage |
+| [ArraySorting](https://github.com/16alves02/ArraySorting) | A C console project for exploring sorting algorithms and programming fundamentals. | C |
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [HOOP](https://github.com/16alves02/hoop) | Basketball e-commerce interface with product browsing and shopping flow | React · TypeScript · Vite |
-| [RAW.](https://github.com/16alves02/raw-app) | Social conversation experience with interactive game modes | React · Tailwind CSS · Framer Motion |
-| [Todo App](https://github.com/16alves02/todo-app) | Task manager with filtering and browser-based persistence | HTML · CSS · JavaScript |
-| [ArraySorting](https://github.com/16alves02/ArraySorting) | Console project exploring sorting algorithms and programming fundamentals | C |
-| [SaborGest](https://github.com/16alves02) | Academic project for bakery operations management, currently in development | Kotlin · PHP · REST API · MySQL |
+Project demos: [HOOP](https://hoop-16alves02.netlify.app) · [RAW.](https://raw-app-bice.vercel.app) · [Todo App](https://todo-app-three-beta-56.vercel.app)
 
-### `$ cat ./toolbox.txt`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,kotlin,php,python,js,ts,html,css,react,vite,tailwind,androidstudio,mysql,git,github,vscode&theme=dark" alt="Technologies and tools" />
-</p>
+## Technologies
 
 ```text
-languages     C, Kotlin, PHP, Python, JavaScript, TypeScript
-web           HTML, CSS, React, Vite, Tailwind CSS
-mobile        Kotlin, Android Studio
-backend/data  REST APIs, MySQL
-tools         Git, GitHub, VS Code, Bruno
+languages    C, Kotlin, PHP, Python, JavaScript, TypeScript
+web          HTML, CSS, React, Vite, Tailwind CSS
+mobile       Kotlin, Android Studio
+backend      PHP, REST APIs, MySQL
+tools        Git, GitHub, VS Code, Bruno
 ```
 
-### `$ git log --oneline --projects`
+## Currently working on
 
-- **HOOP** · [Live demo](https://hoop-16alves02.netlify.app) · [Source](https://github.com/16alves02/hoop)
-- **RAW.** · [Live demo](https://raw-app-bice.vercel.app) · [Source](https://github.com/16alves02/raw-app)
-- **Todo App** · [Live demo](https://todo-app-three-beta-56.vercel.app) · [Source](https://github.com/16alves02/todo-app)
-- **ArraySorting** · [Source](https://github.com/16alves02/ArraySorting)
+**SaborGest** is an academic project in development for bakeries and pastry shops. The aim is to bring everyday operations such as staff, shifts, production and stock into one management system.
 
-### `$ git status`
+Stack: Kotlin, PHP, REST API and MySQL.
 
-Open to selected freelance projects involving websites, frontend interfaces, and practical digital tools.
+## Contact
 
-Each project is scoped around its actual requirements, timeline, and budget.
+I'm open to selected freelance projects involving websites, frontend development and practical digital tools for small businesses.
 
-**Contact:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
-
-### `$ activity --source github`
-
-<p align="center">
-  <a href="https://github.com/16alves02">
-    <img src="https://ghchart.rshah.org/ff7a18/16alves02" alt="GitHub contribution graph for 16alves02" width="100%">
-  </a>
-</p>
-
-<sub>The contribution calendar above is loaded from GitHub activity data. No contribution totals, streaks, or other statistics are manually claimed here.</sub>
-
----
-
-<p align="center">
-  <code>build → learn → refine</code><br>
-  <sub>16alves02 · Portugal</sub>
-</p>
+**Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
+**Portfolio:** [16alves02-com.vercel.app](https://16alves02-com.vercel.app/)
