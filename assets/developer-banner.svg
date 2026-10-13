@@ -1,33 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">16alves02 - Leonardo Alves</title>
-  <desc id="desc">Dark developer banner with orange accents and a code editor aesthetic.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">16alves02 terminal profile</title>
+  <desc id="desc">A minimal terminal window showing Leonardo Alves's real profile information and development interests.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#080808"/>
       <stop offset="100%" stop-color="#17110c"/>
     </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
     </pattern>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ff7a18"/>
-      <stop offset="100%" stop-color="#ff9a3c"/>
-    </linearGradient>
   </defs>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
-  <rect x="0" y="0" width="7" height="360" rx="3" fill="url(#accent)"/>
-  <circle cx="42" cy="34" r="6" fill="#ff5f57"/>
-  <circle cx="64" cy="34" r="6" fill="#febc2e"/>
-  <circle cx="86" cy="34" r="6" fill="#28c840"/>
-  <text x="116" y="39" fill="#777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">~/16alves02</text>
-  <line x1="32" y1="62" x2="1168" y2="62" stroke="#ffffff" stroke-opacity=".08"/>
-  <text x="72" y="125" fill="#777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
-  <text x="72" y="174" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">Leonardo Alves</text>
-  <text x="72" y="211" fill="#b7b0aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">software developer · builder · learner</text>
-  <text x="72" y="269" fill="#777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">const focus =</text>
-  <text x="205" y="269" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">"software · web · mobile · backend"</text>
-  <text x="72" y="302" fill="#777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Portugal · software development · 16alves02</text>
-  <text x="1088" y="302" fill="#ff7a18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" text-anchor="end">16alves02</text>
+  <rect width="1200" height="390" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="0" y="0" width="5" height="390" rx="2" fill="#ff7a18"/>
+  <circle cx="32" cy="30" r="5.5" fill="#ff5f57"/>
+  <circle cx="52" cy="30" r="5.5" fill="#febc2e"/>
+  <circle cx="72" cy="30" r="5.5" fill="#28c840"/>
+  <text x="100" y="35" fill="#8a827a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">leonardo@16alves02: ~</text>
+  <text x="1160" y="35" fill="#68615b" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">zsh</text>
+  <line x1="28" y1="54" x2="1172" y2="54" stroke="#ffffff" stroke-opacity=".10"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
+    <text x="48" y="98" fill="#ff7a18">$ whoami</text>
+    <text x="48" y="145" fill="#f4f1ed" font-size="34" font-weight="700">Leonardo Alves</text>
+    <text x="48" y="179" fill="#c3bbb3" font-size="17">Software Development Student · Portugal</text>
+    <text x="48" y="229" fill="#ff7a18">$ cat focus.txt</text>
+    <text x="48" y="264" fill="#d5cec7" font-size="17">web interfaces / mobile apps / APIs / databases / UI</text>
+    <text x="48" y="311" fill="#ff7a18">$ git status --short</text>
+    <text x="48" y="345" fill="#a9b8a3" font-size="17">learning  building  improving</text>
+    <rect x="354" y="329" width="11" height="20" rx="1" fill="#ff7a18">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <line x1="825" y1="78" x2="825" y2="354" stroke="#ffffff" stroke-opacity=".10"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <text x="865" y="101" fill="#8a827a">PROFILE</text>
+    <text x="865" y="139" fill="#ff7a18">01</text><text x="905" y="139" fill="#d5cec7">web development</text>
+    <text x="865" y="177" fill="#ff7a18">02</text><text x="905" y="177" fill="#d5cec7">mobile development</text>
+    <text x="865" y="215" fill="#ff7a18">03</text><text x="905" y="215" fill="#d5cec7">REST APIs</text>
+    <text x="865" y="253" fill="#ff7a18">04</text><text x="905" y="253" fill="#d5cec7">databases</text>
+    <text x="865" y="291" fill="#ff7a18">05</text><text x="905" y="291" fill="#d5cec7">interface design</text>
+    <text x="865" y="345" fill="#77706a" font-size="13">16alves02 / main</text>
+  </g>
 </svg>
