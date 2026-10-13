@@ -1,163 +1,88 @@
+<!--
+  16alves02 | GitHub profile
+  Terminal-inspired, minimal, and based on real projects.
+-->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - software developer" width="100%">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/feat/terminal-profile-readme/assets/developer-banner.svg" alt="16alves02 terminal profile" width="100%">
 </p>
 
-<h1 align="center">Leonardo Alves</h1>
-
 <p align="center">
-  <strong>Software Developer · Portugal</strong><br>
-  Building web applications, mobile experiences and practical software projects.
-</p>
-
-<p align="center">
-  <a href="https://github.com/16alves02">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a>
-  ·
-  <a href="https://www.instagram.com/16alves02/">Instagram</a>
-  ·
-  <a href="https://www.youtube.com/@16alves02">YouTube</a>
-  ·
+  <a href="https://github.com/16alves02">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/16alves02/">Instagram</a> ·
+  <a href="https://www.youtube.com/@16alves02">YouTube</a> ·
   <a href="https://uiverse.io/16alves02">Uiverse</a>
 </p>
 
 ---
 
-## 👨‍💻 About
+### `$ whoami`
 
-I'm a software developer based in Portugal, currently studying software development and building my experience through real projects.
+Software development student based in Portugal, learning by building practical web, mobile, and software projects.
 
-I work across responsive web interfaces, frontend applications, mobile development, REST APIs and databases. My projects range from small programming exercises to complete application experiences built from an idea into something usable.
+I care about clear interfaces, useful features, and understanding how an application works from the interface to its data.
 
-I care about clean interfaces, useful features and understanding how things work beyond the surface.
+```text
+user      : 16alves02
+location  : Portugal
+role      : Software Development Student
+interests : Web · Mobile · APIs · Databases · UI
+status    : Learning, building, improving
+```
 
-> Build it. Understand it. Improve it.
+### `$ ls ./projects`
 
----
+| Project | Description | Stack |
+|:--|:--|:--|
+| [HOOP](https://github.com/16alves02/hoop) | Basketball e-commerce interface with product browsing and shopping flow | React · TypeScript · Vite |
+| [RAW.](https://github.com/16alves02/raw-app) | Social conversation experience with interactive game modes | React · Tailwind CSS · Framer Motion |
+| [Todo App](https://github.com/16alves02/todo-app) | Task manager with filtering and browser-based persistence | HTML · CSS · JavaScript |
+| [ArraySorting](https://github.com/16alves02/ArraySorting) | Console project exploring sorting algorithms and programming fundamentals | C |
+| [SaborGest](https://github.com/16alves02) | Academic project for bakery operations management, currently in development | Kotlin · PHP · REST API · MySQL |
 
-## 💼 Freelance
+### `$ cat ./toolbox.txt`
 
-I'm opening **16alves02** to freelance work and selected client projects.
-
-I can help with:
-
-- Responsive websites and landing pages
-- Frontend web applications
-- Small business websites and digital tools
-- Custom software for specific workflows
-- REST APIs and database-backed features
-- UI implementation and frontend improvements
-
-The goal is not to sell generic packages. Each project is scoped around what actually needs to be built, the available budget and the technical requirements.
-
-**Freelance status:** Open to selected projects.
-
----
-
-## 🧩 What I Work With
-
-| Area | Technologies |
-| --- | --- |
-| **Languages** | C · Kotlin · PHP · Python · JavaScript · TypeScript |
-| **Web** | HTML · CSS · React · Vite · Tailwind CSS |
-| **Mobile** | Kotlin · Android Studio |
-| **Backend & Data** | PHP · REST APIs · MySQL |
-| **Tools** | Git · GitHub · VS Code · Bruno |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,php,python,js,ts,html,css,react,vite,tailwind,androidstudio,mysql,git,github,vscode" alt="Technology stack">
+<p>
+  <img src="https://skillicons.dev/icons?i=c,kotlin,php,python,js,ts,html,css,react,vite,tailwind,androidstudio,mysql,git,github,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
----
+```text
+languages     C, Kotlin, PHP, Python, JavaScript, TypeScript
+web           HTML, CSS, React, Vite, Tailwind CSS
+mobile        Kotlin, Android Studio
+backend/data  REST APIs, MySQL
+tools         Git, GitHub, VS Code, Bruno
+```
 
-## 🚀 Projects
+### `$ git log --oneline --projects`
 
-### 🏀 HOOP
+- **HOOP** · [Live demo](https://hoop-16alves02.netlify.app) · [Source](https://github.com/16alves02/hoop)
+- **RAW.** · [Live demo](https://raw-app-bice.vercel.app) · [Source](https://github.com/16alves02/raw-app)
+- **Todo App** · [Live demo](https://todo-app-three-beta-56.vercel.app) · [Source](https://github.com/16alves02/todo-app)
+- **ArraySorting** · [Source](https://github.com/16alves02/ArraySorting)
 
-A basketball e-commerce interface built as a frontend project, focused on product browsing and a complete shopping flow.
+### `$ git status`
 
-**React · TypeScript · Vite · Context API**
+Open to selected freelance projects involving websites, frontend interfaces, and practical digital tools.
 
-[Live Demo](https://hoop-16alves02.netlify.app) · [Repository](https://github.com/16alves02/hoop)
+Each project is scoped around its actual requirements, timeline, and budget.
 
----
+**Contact:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
 
-### ⚡ RAW.
+### `$ activity --source github`
 
-A social conversation experience built around questions, interaction and experimental game modes.
+<p align="center">
+  <a href="https://github.com/16alves02">
+    <img src="https://ghchart.rshah.org/ff7a18/16alves02" alt="GitHub contribution graph for 16alves02" width="100%">
+  </a>
+</p>
 
-**React · Tailwind CSS · Framer Motion · Vite**
-
-[Live Demo](https://raw-app-bice.vercel.app) · [Repository](https://github.com/16alves02/raw-app)
-
----
-
-### ✅ Todo App
-
-A lightweight task manager focused on responsive UI, filtering and persistent browser data.
-
-**HTML · CSS · JavaScript · LocalStorage**
-
-[Live Demo](https://todo-app-three-beta-56.vercel.app) · [Repository](https://github.com/16alves02/todo-app)
-
----
-
-### 🔢 ArraySorting
-
-A C console project created to explore classic sorting algorithms and core programming concepts.
-
-**C · Algorithms · Arrays · Functions**
-
-[Repository](https://github.com/16alves02/ArraySorting)
-
----
-
-## 🔨 Currently Building
-
-### SaborGest
-
-A management system for small bakeries and pastry shops, developed as an academic software project.
-
-The project brings together employee management, shifts, working hours, production, stock and operational information in one system.
-
-**Kotlin · PHP · REST API · MySQL**
-
-Currently in development.
-
----
-
-## 📌 What You'll Find Here
-
-This profile is a collection of projects that show how I learn and build:
-
-- Web interfaces and frontend applications
-- Mobile development with Kotlin
-- REST APIs and database-driven systems
-- Programming fundamentals and algorithms
-- UI experiments and personal projects
-- Projects built from an idea into something usable
-
-Some projects are polished experiments. Others are part of the learning process. All of them represent something I built, tested or learned.
-
----
-
-## 🎨 UI & Experiments
-
-Before focusing on larger applications, I also published frontend experiments and CSS patterns through Uiverse.
-
-[View my Uiverse profile](https://uiverse.io/16alves02)
-
----
-
-## 🎯 Current Focus
-
-**Software development · Freelance · Web · Mobile · Backend · Databases · UI**
-
-I'm currently expanding my experience across the full development process, while starting to take on freelance projects and building the public side of the **16alves02** brand.
+<sub>The contribution calendar above is loaded from GitHub activity data. No contribution totals, streaks, or other statistics are manually claimed here.</sub>
 
 ---
 
 <p align="center">
-  <strong>16alves02</strong><br>
-  <sub>Software · Projects · Freelance</sub>
+  <code>build → learn → refine</code><br>
+  <sub>16alves02 · Portugal</sub>
 </p>
