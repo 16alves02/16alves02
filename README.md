@@ -25,8 +25,8 @@ I'm especially interested in building software that is clear to use and useful b
 | --- | --- | --- |
 | [HOOP](https://github.com/16alves02/hoop) | A basketball shop interface with product browsing, a cart and a shopping flow. | React, TypeScript, Vite, Context API |
 | [RAW.](https://github.com/16alves02/raw-app) | A social conversation project built around interactive formats and game modes. | React, Tailwind CSS, Framer Motion, Vite |
-| [Todo App](https://github.com/16alves02/todo-app) | A task manager with filtering and browser-based persistence. | HTML, CSS, JavaScript, LocalStorage |
-| [ArraySorting](https://github.com/16alves02/ArraySorting) | A C console project for exploring sorting algorithms and programming fundamentals. | C |
+| [Todo App](https://github.com/16alves02/todo-app) | A vanilla JavaScript task manager with filtering, local persistence and keyboard-accessible controls. | HTML, CSS, JavaScript, LocalStorage |
+| [ArraySorting](https://github.com/16alves02/ArraySorting) | A C console program with input validation and implementations of Selection, Insertion and Bubble Sort, plus a small Bogo Sort demo. | C |
 
 Project demos: [HOOP](https://hoop-16alves02.netlify.app) · [RAW.](https://raw-app-bice.vercel.app) · [Todo App](https://todo-app-three-beta-56.vercel.app)
 
