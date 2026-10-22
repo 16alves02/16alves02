@@ -13,22 +13,22 @@
 
 ---
 
-## About
+## About me
 
-I'm Leonardo Alves, a software development student based in Portugal. I use personal and academic projects to put what I'm learning into practice, from web interfaces and mobile apps to APIs and database-backed systems.
+I'm Leonardo Alves, a software development student in Portugal. I use personal and academic projects to practise what I'm learning, from web interfaces and mobile applications to APIs and database-backed systems.
 
-I'm especially interested in building software that is clear to use and useful beyond a demo.
+I'm interested in building software that is straightforward to use and useful beyond a demo.
 
 ## Selected projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [HOOP](https://github.com/16alves02/hoop) | A basketball shop interface with product browsing, a cart and a shopping flow. | React, TypeScript, Vite, Context API |
-| [RAW.](https://github.com/16alves02/raw-app) | A social conversation project built around interactive formats and game modes. | React, Tailwind CSS, Framer Motion, Vite |
-| [Todo App](https://github.com/16alves02/todo-app) | A vanilla JavaScript task manager with filtering, local persistence and keyboard-accessible controls. | HTML, CSS, JavaScript, LocalStorage |
-| [ArraySorting](https://github.com/16alves02/ArraySorting) | A C console program with input validation and implementations of Selection, Insertion and Bubble Sort, plus a small Bogo Sort demo. | C |
+| [HOOP](https://github.com/16alves02/hoop) | Basketball e-commerce frontend demo with product browsing, a cart and a simulated checkout flow. | React, TypeScript, Vite, Context API |
+| [RAW.](https://github.com/16alves02/raw-app) | Interactive social conversation app with several game modes. | React, JavaScript, Tailwind CSS, Framer Motion |
+| [Todo App](https://github.com/16alves02/todo-app) | Browser-based task manager with filters, local persistence and keyboard-accessible controls. | HTML, CSS, JavaScript |
+| [ArraySorting](https://github.com/16alves02/ArraySorting) | C console program demonstrating classic sorting algorithms and input validation. | C |
 
-Project demos: [HOOP](https://hoop-16alves02.netlify.app) · [RAW.](https://raw-app-bice.vercel.app) · [Todo App](https://todo-app-three-beta-56.vercel.app)
+**Live demos:** [HOOP](https://hoop-16alves02.netlify.app) · [RAW.](https://raw-app-bice.vercel.app) · [Todo App](https://todo-app-three-beta-56.vercel.app)
 
 ## Technologies
 
@@ -42,9 +42,9 @@ tools        Git, GitHub, VS Code, Bruno
 
 ## Currently working on
 
-**SaborGest** is an academic project in development for bakeries and pastry shops. The aim is to bring everyday operations such as staff, shifts, production and stock into one management system.
+**SaborGest** is an academic project in development focused on management software for bakeries and similar food businesses.
 
-Stack: Kotlin, PHP, REST API and MySQL.
+Planned stack: Kotlin, PHP, REST APIs and MySQL.
 
 ## Contact
 
