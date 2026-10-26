@@ -39,7 +39,7 @@ I prefer presenting the actual scope and status of a project rather than describ
 ## Technologies used in projects
 
 ```text
-languages    C, Kotlin, PHP, JavaScript, TypeScript
+languages    C, Kotlin, PHP, Python, JavaScript, TypeScript
 web          HTML, CSS, React, Vite, Tailwind CSS
 mobile       Kotlin, Android
 backend      PHP, REST APIs, MySQL / MariaDB
