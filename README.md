@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/leonardo-alves-502ba8291/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
   <a href="https://uiverse.io/16alves02">Uiverse</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
 </p>
@@ -35,6 +35,28 @@ I prefer presenting the actual scope and status of a project rather than describ
     <img src="https://raw.githubusercontent.com/16alves02/two-of-hearts-portuguese-folk-art/main/assets/front.png" alt="Final Two of Hearts playing-card artwork" width="180">
   </a>
 </p>
+
+## Professional experience
+
+| Role | Company | Period | Focus |
+| --- | --- | --- | --- |
+| CNC machine operator | Schmidt Light Metal Group | Feb 2025 – May 2026 | On-site industrial role in Oliveira de Azeméis |
+| Store operator | MC | May – Aug 2024 | Customer service, stock and replenishment, store and warehouse operations |
+| Backend developer intern | ClickBeauty / Alvocromático | Apr – Jul 2023 | PHP, MySQL, internal web systems and code maintenance |
+| Web development intern | Associação Estamos Juntos (AEJ) | Jul 2022 | HTML, CSS, JavaScript, PHP, database work and web content |
+
+## Education
+
+- **CTeSP, Software Development** — Escola Superior Aveiro Norte, Universidade de Aveiro · Sep 2025 – Jul 2027
+- **CTeSP, CNC Programmer** — Oct 2024 – Jul 2025 · Enrolment currently frozen
+- **Escola Secundária Dr. Serafim Leite** · 2020 – 2023
+
+## Services
+
+- Web development
+- Database development
+- Software testing
+- Web design
 
 ## Technologies used in projects
 
