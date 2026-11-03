@@ -15,17 +15,19 @@
 
 ## About me
 
-I'm Leonardo Alves, a software development student in Portugal. I use personal and academic projects to practise web development, programming fundamentals, Android development, APIs and database-backed software.
+I'm Leonardo Alves, a software development student in Portugal. I use personal and academic projects to practise frontend and backend development, Android applications, APIs, databases and software engineering.
 
-I prefer presenting the actual scope and status of a project rather than describing unfinished work as production-ready.
+I aim to describe each project accurately, including its current status and limitations, rather than presenting unfinished work as production-ready.
 
 ## Selected projects
 
 | Project | Description | Technologies / links |
 | --- | --- | --- |
+| **SaborGest** | Academic full-stack system for food businesses, currently in development. Includes staff scheduling, attendance, stock management, a management web app, REST API and Android kiosk. | PHP, Kotlin / Android, REST API, MySQL / MariaDB · Private source; no public demo |
+| **RunLattice** | Workflow automation platform prototype. Includes a visual workflow editor, PostgreSQL-backed workflow management and a Redis/BullMQ execution queue. The worker currently simulates workflow traversal; external integrations are not implemented yet. | Next.js, React, TypeScript, PostgreSQL, Prisma, Redis, BullMQ · [Public repository](https://github.com/16alves02/RunLattice) |
+| **Nova Imagem by Maura Pereira** | Multi-page website for a real hair salon, with a separate Sanity Studio planned so the owner can manage services, gallery, news and business information without editing code. Content and launch details still require owner confirmation. | Next.js, React, TypeScript, Sanity · Private source; launch preparation in progress |
+| **RAW.** | Interactive social conversation app built around question decks and game modes, with localized content and a PWA experience. | React, JavaScript, Tailwind CSS, Framer Motion · [Live demo](https://raw-app-bice.vercel.app) · Private source |
 | **HOOP** | Educational basketball-store frontend with product discovery, cart and a simulated checkout. It does not process real purchases. | React, TypeScript, Vite · [Public repository](https://github.com/16alves02/hoop) · [Live demo](https://hoop-16alves02.netlify.app) |
-| **RAW.** | Interactive social conversation app built around question decks and game modes. The GitHub source repository is private, so it is not linked here. | React, JavaScript, Tailwind CSS, Framer Motion · [Live demo](https://raw-app-bice.vercel.app) |
-| **SaborGest** | Academic software project for food businesses, in development. The current repository documentation describes staff scheduling and attendance with a management web app, REST API and Android kiosk. | Kotlin / Android, PHP, REST API, MySQL / MariaDB · Private source; no public demo |
 | **Todo App** | Browser-based task manager with completed/active filters, keyboard controls and local persistence. | HTML, CSS, JavaScript · [Public repository](https://github.com/16alves02/todo-app) · [Live demo](https://todo-app-three-beta-56.vercel.app) |
 | **Two of Hearts** | Vector playing-card illustration inspired by the traditional Lenços de Namorados of Minho, Portugal. | Affinity, vector illustration · [Public repository and final artwork](https://github.com/16alves02/two-of-hearts-portuguese-folk-art) |
 | **ArraySorting** | Interactive C console program demonstrating Selection Sort, Insertion Sort, Bubble Sort and a small Bogo Sort example. | C, arrays, algorithms · [Public repository](https://github.com/16alves02/ArraySorting) |
@@ -51,32 +53,26 @@ I prefer presenting the actual scope and status of a project rather than describ
 - **CTeSP, CNC Programmer** — Oct 2024 – Jul 2025 · Enrolment currently frozen
 - **Escola Secundária Dr. Serafim Leite** · 2020 – 2023
 
-## Services
-
-- Web development
-- Database development
-- Software testing
-- Web design
-
 ## Technologies used in projects
 
 ```text
-languages    C, Kotlin, PHP, Python, JavaScript, TypeScript
-web          HTML, CSS, React, Vite, Tailwind CSS
+languages    C, Kotlin, PHP, JavaScript, TypeScript, Python
+frontend     HTML, CSS, React, Next.js, Vite, Tailwind CSS
+backend      PHP, REST APIs, Node.js / Next.js Route Handlers
+databases    MySQL, MariaDB, PostgreSQL
 mobile       Kotlin, Android
-backend      PHP, REST APIs, MySQL / MariaDB
-tools        Git, GitHub, VS Code, Bruno, Affinity
+tools        Git, GitHub, Docker, Redis, BullMQ, Prisma, Bruno, Affinity
 ```
 
 ## Currently working on
 
-**SaborGest** is still in development. The current repository documentation describes staff scheduling and attendance for bakeries, pastry shops, cafés and restaurants. It uses a PHP management web app, a REST API, a Kotlin Android kiosk and a MySQL/MariaDB database.
-
-The private source is not linked from this profile, and there is no public demo available to visitors yet.
+- **SaborGest:** developing and validating a web management panel, REST API, Android kiosk and stock-management workflows.
+- **RunLattice:** developing the workflow editor, execution infrastructure and foundations for safe integrations.
+- **Nova Imagem by Maura Pereira:** preparing the website and owner-managed CMS, while keeping publication dependent on confirmed business information and approved content.
 
 ## Contact
 
-I'm open to selected opportunities involving websites, frontend development and practical digital tools for small businesses.
+I'm open to selected opportunities involving web development, frontend development and practical digital tools for small businesses.
 
 **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)  
 **Portfolio:** [16alves02-com.vercel.app](https://16alves02-com.vercel.app/)
