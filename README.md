@@ -51,6 +51,7 @@ The order below matches the four main projects on my portfolio.
 | **HOOP** | Educational basketball-store frontend with product discovery, filters, product pages, favourites, a cart and a simulated checkout. It does not process real purchases. | [Repository](https://github.com/16alves02/hoop) · [Live demo](https://hoop-16alves02.netlify.app) |
 | **Todo App** | Browser-based task manager with task completion, filters and local persistence. | [Repository](https://github.com/16alves02/todo-app) · [Live demo](https://todo-app-three-beta-56.vercel.app) |
 | **ArraySorting** | C console program demonstrating Selection Sort, Insertion Sort, Bubble Sort and a small Bogo Sort example. | [Repository](https://github.com/16alves02/ArraySorting) |
+| **Basket Hub** | Academic group project for basketball management, with modules for teams, players, games, events, registrations, organisers, venues, sponsors, rankings and statistics. | Kotlin, Ktor, Thymeleaf, Exposed, H2, Gradle · [Group repository](https://github.com/bmgoliveira-UA/basket-hub) |
 | **Two of Hearts** | Vector playing-card illustration inspired by the traditional Lenços de Namorados of Minho, Portugal. | [Repository and artwork](https://github.com/16alves02/two-of-hearts-portuguese-folk-art) |
 
 ## Technical foundation
