@@ -84,13 +84,13 @@ Software architecture, API design, full-stack system design, data modelling, asy
 
 ### Additional professional experience
 
-CNC Machine Operator — Schmidt Light Metal Group · Feb 2025–May 2026  
-Store Operator — MC · May–Aug 2024
+CNC Machine Operator - Schmidt Light Metal Group · Feb 2025–May 2026  
+Store Operator - MC · May–Aug 2024
 
 ## Education
 
-- **CTeSP in Software Development** — Escola Superior Aveiro Norte, Universidade de Aveiro · 2025–2027 · In progress
-- **Professional Course in IT Systems Management and Programming** — Escola Secundária Dr. Serafim Leite · 2020–2023
+- **CTeSP in Software Development** - Escola Superior Aveiro Norte, Universidade de Aveiro · 2025–2027 · In progress
+- **Professional Course in IT Systems Management and Programming** - Escola Secundária Dr. Serafim Leite · 2020–2023
 
 ## Contact
 
