@@ -48,7 +48,7 @@ The order below matches the four main projects on my portfolio.
 | Project | Description | Status / links |
 | --- | --- | --- |
 | **Nova Imagem by Maura Pereira** | Client website project for a local hair salon. The site structure and content workflow are being prepared with the owner. A CMS-based editing workflow is planned, but not yet implemented or validated. | In preparation; no finished public launch is claimed. |
-| **HOOP** | Educational basketball-store frontend with product discovery, filters, product pages, favourites, a cart and a simulated checkout. It does not process real purchases. | [Repository](https://github.com/16alves02/hoop) · [Live demo](https://hoop-16alves02.netlify.app) |
+| **HOOP** | Academic frontend project: a fictional basketball-store experience with product discovery, filters, product pages, favourites, a cart and a simulated checkout. It does not process real purchases. | [Repository](https://github.com/16alves02/hoop) · [Live demo](https://hoop-16alves02.netlify.app) |
 | **Todo App** | Browser-based task manager with task completion, filters and local persistence. | [Repository](https://github.com/16alves02/todo-app) · [Live demo](https://todo-app-three-beta-56.vercel.app) |
 | **ArraySorting** | C console program demonstrating Selection Sort, Insertion Sort, Bubble Sort and a small Bogo Sort example. | [Repository](https://github.com/16alves02/ArraySorting) |
 | **Basket Hub** | Academic group project for basketball management, with modules for teams, players, games, events, registrations, organisers, venues, sponsors, rankings and statistics. | Kotlin, Ktor, Thymeleaf, Exposed, H2, Gradle · [Group repository](https://github.com/bmgoliveira-UA/basket-hub) |
