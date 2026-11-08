@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves — 16alves02 terminal profile" width="100%">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - 16alves02 terminal profile" width="100%">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### `$ whoami`
 
-**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025–2027.
+**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
 
 Based in **Oliveira de Azeméis, Portugal**. I build web applications, backend services and mobile projects.
 
@@ -78,8 +78,8 @@ Remote      Portugal
 
 ### `$ experience --relevant`
 
-- **Backend Development Intern** — ClickBeauty / Alvocromático
-- **Web Development Intern** — Associação Estamos Juntos (AEJ)
+- **Backend Development Intern** - ClickBeauty / Alvocromático
+- **Web Development Intern** - Associação Estamos Juntos (AEJ)
 
 <sub>Also experienced in CNC machine operation and retail, bringing attention to detail, quality procedures and teamwork.</sub>
 
