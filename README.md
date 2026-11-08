@@ -1,67 +1,91 @@
-<!-- 16alves02 | GitHub profile -->
+<!--
+  16alves02 | GitHub profile
+  Terminal-inspired, concise, and focused on current work.
+-->
 
-# Leonardo Alves
-**Software Developer · Software Development Student**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves — 16alves02 terminal profile" width="100%">
+</p>
 
-Software Development student at **Escola Superior Aveiro Norte (ESAN), Universidade de Aveiro** (2025–2027), with previous internship experience in backend and web development.
-
-I build academic and personal projects across web applications, backend systems, APIs, relational databases and Android development. I’m interested in understanding complete systems: from requirements and data modelling to implementation, validation and maintainability.
-
-## Internship availability
-
-**Seeking a paid 680-hour curricular internship starting in February 2027.**
-
-- **Based in:** Oliveira de Azeméis, Portugal
-- **On-site:** Oliveira de Azeméis and nearby areas
-- **Hybrid / remote:** Aveiro, Porto and Coimbra districts
-- **Duration:** 680 hours
-- **Start:** February 2027
-
-[Portfolio](https://16alves02-com.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/16alves02/) · [Email](mailto:16alves02@gmail.com) · [Download CV](https://16alves02-com.vercel.app/)
+<p align="center">
+  <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
+  <a href="mailto:16alves02@gmail.com">Email</a>
+</p>
 
 ---
 
-## Featured projects
+### `$ whoami`
 
-| Project | Overview | Technologies | Status |
-| --- | --- | --- | --- |
-| **[SaborGest](https://github.com/16alves02/SaborGest)** | Academic web and Android system for employee schedules, attendance and stock management. Includes a PHP API, relational database, management panel and Android kiosk. | PHP, PDO, MySQL/MariaDB, Kotlin, Android, Retrofit | **In development** — integration, security review and acceptance validation remain. Not production-ready. |
-| **[RunLattice](https://github.com/16alves02/RunLattice)** | Workflow automation platform with a visual builder, workspace-scoped workflows, asynchronous execution, signed webhooks, scheduled triggers and a first live Discord action. | React, Next.js, TypeScript, PostgreSQL, Prisma, Redis, BullMQ, Vitest | **Early-stage prototype** — core foundations and one external action are implemented; broader integrations, operational hardening and production readiness remain. |
-| **MRDR.** | Original deduction game focused on procedural case generation, clue logic, investigation and automated validation. | React, TypeScript, Vite, Zustand, Vitest, Capacitor | **In development** — features and campaign scope should be assessed against the current playable build and test results. |
-| **RAW.** | Interactive conversation and party-game application with multiple game modes, card interactions and multilingual support. | React, JavaScript, Tailwind CSS, Framer Motion | **Live project** — source code is private; public demonstrations are the best way to explore it. |
+**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025–2027.
 
-## Technical foundation
+Based in **Oliveira de Azeméis, Portugal**. I build web applications, backend services and mobile projects.
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | JavaScript, TypeScript, PHP, Kotlin, SQL, C |
-| **Frontend** | React, Next.js, Vite, HTML, CSS, Tailwind CSS |
-| **Backend & APIs** | PHP, PDO, REST APIs, Next.js Route Handlers, Zod |
-| **Databases & persistence** | MySQL, MariaDB, PostgreSQL, Prisma |
-| **Background processing** | Redis, BullMQ |
-| **Mobile** | Kotlin, Android, Retrofit, Capacitor |
-| **Testing & tools** | Vitest, Git, GitHub Actions, Docker Compose |
+```text
+user      : Leonardo Alves (@16alves02)
+education : CTeSP Software Development · UA / ESAN
+focus     : React · TypeScript · PHP · Kotlin
+```
 
-My experience varies across these technologies; the projects above provide context for where I have applied them.
+### `$ git status`
 
-## Experience
+<pre>
+<span>● AVAILABLE</span>  Curricular internship · 680 hours
+Start       February 2027
+On-site     Oliveira de Azeméis and nearby areas
+Hybrid      Aveiro · Porto · Coimbra
+Remote      Portugal
+</pre>
 
-- **Backend Development Intern — ClickBeauty / Alvocromático** · Apr–Jul 2023  
-  Backend development and maintenance involving PHP, MySQL and internal web systems.
-- **Web Development Intern — Associação Estamos Juntos (AEJ)** · Jul 2022  
-  Web development involving HTML, CSS, JavaScript, PHP and database integration.
+### `$ ls ./featured-projects`
 
-**Additional professional experience:** CNC Machine Operator — Schmidt Light Metal Group (Feb 2025–May 2026); Store Operator — MC (May–Aug 2024).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/16alves02/SaborGest">SaborGest</a></strong><br>
+      <sub>ACADEMIC · IN DEVELOPMENT</sub>
+      <p>Bakery management system for schedules, attendance and stock, combining a web panel, PHP API and Android app.</p>
+      <sub>PHP · Kotlin · MySQL · Android</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/16alves02/RunLattice">RunLattice</a></strong><br>
+      <sub>PRODUCT PROTOTYPE · IN DEVELOPMENT</sub>
+      <p>Workflow automation platform with a visual builder, asynchronous execution and an initial live integration.</p>
+      <sub>React · TypeScript · PostgreSQL · Redis · BullMQ</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>MRDR.</strong><br>
+      <sub>ORIGINAL GAME · IN DEVELOPMENT</sub>
+      <p>Deduction game built around investigation, case generation, clue logic and automated validation.</p>
+      <sub>React · TypeScript · Vitest</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>RAW.</strong><br>
+      <sub>INTERACTIVE APP · LIVE</sub>
+      <p>Conversation and party-game experience with multiple modes and multilingual support.</p>
+      <sub>React · JavaScript · Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
 
-## Education
+### `$ cat ./toolbox.txt`
 
-- **CTeSP in Software Development** — Escola Superior Aveiro Norte, Universidade de Aveiro · 2025–2027 · In progress
-- **Professional Course in IT Systems Management and Programming** — Escola Secundária Dr. Serafim Leite · 2020–2023
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,kotlin,html,css,tailwind,nextjs,vite,mysql,postgres,redis,docker,git,github&theme=dark" alt="React, TypeScript, JavaScript, PHP, Kotlin, HTML, CSS, Tailwind CSS, Next.js, Vite, MySQL, PostgreSQL, Redis, Docker, Git and GitHub">
+</p>
 
-## What I value
+### `$ experience --relevant`
 
-Clear requirements, maintainable code, thoughtful technical decisions, meaningful tests and honest documentation of limitations. I’m looking to contribute to a development team, learn from experienced colleagues and grow through practical engineering work.
+- **Backend Development Intern** — ClickBeauty / Alvocromático
+- **Web Development Intern** — Associação Estamos Juntos (AEJ)
+
+<sub>Also experienced in CNC machine operation and retail, bringing attention to detail, quality procedures and teamwork.</sub>
 
 ---
 
-**Portfolio:** [16alves02-com.vercel.app](https://16alves02-com.vercel.app/) · **GitHub:** [@16alves02](https://github.com/16alves02) · **LinkedIn:** [Leonardo Alves](https://www.linkedin.com/in/16alves02/) · **Email:** [16alves02@gmail.com](mailto:16alves02@gmail.com)
+<p align="center">
+  <code>build → learn → refine</code><br>
+  <sub>16alves02 · Oliveira de Azeméis, Portugal</sub>
+</p>
