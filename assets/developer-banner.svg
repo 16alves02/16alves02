@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
   <title id="title">16alves02 terminal profile</title>
-  <desc id="desc">A minimal terminal window showing Leonardo Alves's real profile information and development interests.</desc>
+  <desc id="desc">A terminal-style profile banner for Leonardo Alves, Software Developer based in Portugal.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#080808"/>
@@ -23,7 +23,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
     <text x="48" y="98" fill="#ff7a18">$ whoami</text>
     <text x="48" y="145" fill="#f4f1ed" font-size="34" font-weight="700">Leonardo Alves</text>
-    <text x="48" y="179" fill="#c3bbb3" font-size="17">Software Development Student · Portugal</text>
+    <text x="48" y="179" fill="#c3bbb3" font-size="17">Software Developer · Portugal</text>
     <text x="48" y="229" fill="#ff7a18">$ cat focus.txt</text>
     <text x="48" y="264" fill="#d5cec7" font-size="17">web interfaces / mobile apps / APIs / databases / UI</text>
     <text x="48" y="311" fill="#ff7a18">$ git status --short</text>
@@ -39,7 +39,7 @@
     <text x="865" y="177" fill="#ff7a18">02</text><text x="905" y="177" fill="#d5cec7">mobile development</text>
     <text x="865" y="215" fill="#ff7a18">03</text><text x="905" y="215" fill="#d5cec7">REST APIs</text>
     <text x="865" y="253" fill="#ff7a18">04</text><text x="905" y="253" fill="#d5cec7">databases</text>
-    <text x="865" y="291" fill="#ff7a18">05</text><text x="905" y="291" fill="#d5cec7">interface design</text>
+    <text x="865" y="291" fill="#ff7a18">05</text><text x="905" y="291" fill="#d5cec7">interface engineering</text>
     <text x="865" y="345" fill="#77706a" font-size="13">16alves02 / main</text>
   </g>
 </svg>
