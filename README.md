@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://16alves02.netlify.app/">Portfolio</a> ·
+  <a href="https://16alves02.pages.dev/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
   <a href="https://github.com/13alves05">Academic GitHub</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
