@@ -1,6 +1,6 @@
 <!--
   16alves02 | GitHub profile
-  Terminal-inspired, concise, and focused on current work.
+  Terminal-inspired overview of current work.
 -->
 
 <p align="center">
@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
+  <a href="https://16alves02.netlify.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
+  <a href="https://github.com/13alves05">Academic GitHub</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
 </p>
 
@@ -17,25 +18,26 @@
 
 ### `$ whoami`
 
-**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
+**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025–2027.
 
-Based in **Oliveira de Azeméis, Portugal**. I build web applications, backend services and mobile projects.
+Based in **Oliveira de Azeméis, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
 
 ```text
 user      : Leonardo Alves (@16alves02)
 education : CTeSP Software Development · UA / ESAN
-focus     : React · TypeScript · PHP · Kotlin
+interests : Full-stack development · Backend · Mobile
 ```
 
 ### `$ git status`
 
-<pre>
-<span>● AVAILABLE</span>  Curricular internship · 680 hours
-Start       February 2027
-On-site     Oliveira de Azeméis and nearby areas
-Hybrid      Aveiro · Porto · Coimbra
-Remote      Portugal
-</pre>
+```text
+AVAILABLE  Curricular internship · 680 hours
+Start      February 2027
+On-site    Oliveira de Azeméis and nearby areas
+Hybrid     Aveiro · Porto · Coimbra
+Remote     Portugal
+Type       Paid curricular internship
+```
 
 ### `$ ls ./featured-projects`
 
@@ -44,31 +46,39 @@ Remote      Portugal
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/SaborGest">SaborGest</a></strong><br>
       <sub>ACADEMIC · IN DEVELOPMENT</sub>
-      <p>Bakery management system for schedules, attendance and stock, combining a web panel, PHP API and Android app.</p>
-      <sub>PHP · Kotlin · MySQL · Android</sub>
+      <p>Management system for small food businesses, combining a PHP web panel, REST API, relational database and Kotlin Android kiosk. Covers staff schedules, attendance and stock management.</p>
+      <sub>PHP · PDO · MySQL · Kotlin · Android · Retrofit</sub>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/RunLattice">RunLattice</a></strong><br>
       <sub>PRODUCT PROTOTYPE · IN DEVELOPMENT</sub>
-      <p>Workflow automation platform with a visual builder, asynchronous execution and an initial live integration.</p>
-      <sub>React · TypeScript · PostgreSQL · Redis · BullMQ</sub>
+      <p>Workflow automation platform with authenticated organisation workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks, scheduled triggers and a live Discord action.</p>
+      <sub>Next.js · TypeScript · Better Auth · PostgreSQL · Redis · BullMQ</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>MRDR.</strong><br>
       <sub>ORIGINAL GAME · IN DEVELOPMENT</sub>
-      <p>Deduction game built around investigation, case generation, clue logic and automated validation.</p>
-      <sub>React · TypeScript · Vitest</sub>
+      <p>Deduction game built around procedural case generation, clue relationships, unique-solution validation and campaign progression.</p>
+      <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
     </td>
     <td width="50%" valign="top">
       <strong>RAW.</strong><br>
       <sub>INTERACTIVE APP · LIVE</sub>
-      <p>Conversation and party-game experience with multiple modes and multilingual support.</p>
-      <sub>React · JavaScript · Tailwind CSS</sub>
+      <p>Conversation and party-game experience with multiple modes, card interactions and multilingual interface. Source repository is private.</p>
+      <sub>React · JavaScript · Tailwind CSS · PWA</sub>
     </td>
   </tr>
 </table>
+
+### `$ ls ./other-work`
+
+- **[HOOP](https://github.com/16alves02/hoop)** — academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
+- **Nova Imagem by Maura Pereira** — website project for a local salon; content and publication setup are still being validated.
+- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** — academic group project using Kotlin, Ktor, Thymeleaf and Exposed.
+- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** — Python command-line music catalogue manager developed in a four-person academic team.
+- **[Todo App](https://github.com/16alves02/todo-app)** · **[ArraySorting](https://github.com/16alves02/ArraySorting)** — smaller projects demonstrating web and programming fundamentals.
 
 ### `$ cat ./toolbox.txt`
 
@@ -78,10 +88,10 @@ Remote      Portugal
 
 ### `$ experience --relevant`
 
-- **Backend Development Intern** - ClickBeauty / Alvocromático
-- **Web Development Intern** - Associação Estamos Juntos (AEJ)
+- **Backend Development Intern** — ClickBeauty / Alvocromático · PHP, MySQL and internal web systems.
+- **Web Development Intern** — Associação Estamos Juntos (AEJ) · HTML, CSS, JavaScript, PHP and database integration.
 
-<sub>Also experienced in CNC machine operation and retail, bringing attention to detail, quality procedures and teamwork.</sub>
+<sub>Additional experience in CNC machine operation and retail, including production quality control, operational procedures and teamwork.</sub>
 
 ---
 
