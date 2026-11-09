@@ -74,11 +74,11 @@ Type       Paid curricular internship
 
 ### `$ ls ./other-work`
 
-- **[HOOP](https://github.com/16alves02/hoop)** — academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
-- **Nova Imagem by Maura Pereira** — website project for a local salon; content and publication setup are still being validated.
-- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** — academic group project using Kotlin, Ktor, Thymeleaf and Exposed.
-- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** — Python command-line music catalogue manager developed in a four-person academic team.
-- **[Todo App](https://github.com/16alves02/todo-app)** · **[ArraySorting](https://github.com/16alves02/ArraySorting)** — smaller projects demonstrating web and programming fundamentals.
+- **[HOOP](https://github.com/16alves02/hoop)** - academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
+- **Nova Imagem by Maura Pereira** - website project for a local salon; content and publication setup are still being validated.
+- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic group project using Kotlin, Ktor, Thymeleaf and Exposed.
+- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - Python command-line music catalogue manager developed in a four-person academic team.
+- **[Todo App](https://github.com/16alves02/todo-app)** · **[ArraySorting](https://github.com/16alves02/ArraySorting)** - smaller projects demonstrating web and programming fundamentals.
 
 ### `$ cat ./toolbox.txt`
 
@@ -88,8 +88,8 @@ Type       Paid curricular internship
 
 ### `$ experience --relevant`
 
-- **Backend Development Intern** — ClickBeauty / Alvocromático · PHP, MySQL and internal web systems.
-- **Web Development Intern** — Associação Estamos Juntos (AEJ) · HTML, CSS, JavaScript, PHP and database integration.
+- **Backend Development Intern** - ClickBeauty / Alvocromático · PHP, MySQL and internal web systems.
+- **Web Development Intern** - Associação Estamos Juntos (AEJ) · HTML, CSS, JavaScript, PHP and database integration.
 
 <sub>Additional experience in CNC machine operation and retail, including production quality control, operational procedures and teamwork.</sub>
 
