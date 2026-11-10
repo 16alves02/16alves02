@@ -11,6 +11,7 @@
   <a href="https://16alves02.pages.dev/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
   <a href="https://github.com/13alves05">Academic GitHub</a> ·
+  <a href="https://www.instagram.com/16alves02/">Instagram</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
 </p>
 
@@ -18,7 +19,7 @@
 
 ### `$ whoami`
 
-**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025–2027.
+**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
 
 Based in **Oliveira de Azeméis, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
 
@@ -60,14 +61,14 @@ Type       Paid curricular internship
     <td width="50%" valign="top">
       <strong>MRDR.</strong><br>
       <sub>ORIGINAL GAME · IN DEVELOPMENT</sub>
-      <p>Deduction game built around procedural case generation, clue relationships, unique-solution validation and campaign progression.</p>
+      <p>Original crime-deduction game with procedural cases, connected clues, unique-solution validation and campaign progression. In development.</p>
       <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
     </td>
     <td width="50%" valign="top">
       <strong>RAW.</strong><br>
-      <sub>INTERACTIVE APP · LIVE</sub>
-      <p>Conversation and party-game experience with multiple modes, card interactions and multilingual interface. Source repository is private.</p>
-      <sub>React · JavaScript · Tailwind CSS · PWA</sub>
+      <sub>ALV16 STUDIOS · IN DEVELOPMENT · PUBLIC DEMO</sub>
+      <p>Card-based social app with three modes, 27 decks and content in six languages. Public demos are available; the project remains in development and its source repository is private.</p>
+      <sub>React · JavaScript · Tailwind CSS · PWA · [itch.io](https://alv16studios.itch.io/raw-conversation-game)</sub>
     </td>
   </tr>
 </table>
@@ -75,9 +76,9 @@ Type       Paid curricular internship
 ### `$ ls ./other-work`
 
 - **[HOOP](https://github.com/16alves02/hoop)** - academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
-- **Nova Imagem by Maura Pereira** - website project for a local salon; content and publication setup are still being validated.
-- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic group project using Kotlin, Ktor, Thymeleaf and Exposed.
-- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - Python command-line music catalogue manager developed in a four-person academic team.
+- **Two of Hearts** - vector illustration inspired by Minho love handkerchiefs and Portuguese folk motifs.
+- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
+- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
 - **[Todo App](https://github.com/16alves02/todo-app)** · **[ArraySorting](https://github.com/16alves02/ArraySorting)** - smaller projects demonstrating web and programming fundamentals.
 
 ### `$ cat ./toolbox.txt`
