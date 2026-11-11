@@ -45,7 +45,7 @@ Type       Paid curricular internship
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/16alves02/SaborGest">SaborGest</a></strong><br>
+      <strong>SaborGest</strong><br>
       <sub>ACADEMIC · IN DEVELOPMENT</sub>
       <p>Management system for small food businesses, combining a PHP web panel, REST API, relational database and Kotlin Android kiosk. Covers staff schedules, attendance and stock management.</p>
       <sub>PHP · PDO · MySQL · Kotlin · Android · Retrofit</sub>
@@ -53,7 +53,7 @@ Type       Paid curricular internship
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/RunLattice">RunLattice</a></strong><br>
       <sub>PRODUCT PROTOTYPE · IN DEVELOPMENT</sub>
-      <p>Workflow automation platform with authenticated organisation workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks, scheduled triggers and a live Discord action.</p>
+      <p>Workflow automation prototype with authenticated organisation workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks, scheduled triggers and a working Discord webhook action. The worker currently supports one trigger and at most one condition.</p>
       <sub>Next.js · TypeScript · Better Auth · PostgreSQL · Redis · BullMQ</sub>
     </td>
   </tr>
@@ -76,10 +76,8 @@ Type       Paid curricular internship
 ### `$ ls ./other-work`
 
 - **[HOOP](https://github.com/16alves02/hoop)** - academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
-- **Two of Hearts** - vector illustration inspired by Minho love handkerchiefs and Portuguese folk motifs.
 - **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
 - **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
-- **[Todo App](https://github.com/16alves02/todo-app)** · **[ArraySorting](https://github.com/16alves02/ArraySorting)** - smaller projects demonstrating web and programming fundamentals.
 
 ### `$ cat ./toolbox.txt`
 
