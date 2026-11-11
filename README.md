@@ -65,17 +65,17 @@ Type       Paid curricular internship
       <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
     </td>
     <td width="50%" valign="top">
-      <strong>RAW.</strong><br>
-      <sub>ALV16 STUDIOS · IN DEVELOPMENT · PUBLIC DEMO</sub>
-      <p>Card-based social app with three modes, 27 decks and content in six languages. Public demos are available; the project remains in development and its source repository is private.</p>
-      <sub>React · JavaScript · Tailwind CSS · PWA · [itch.io](https://alv16studios.itch.io/raw-conversation-game)</sub>
+      <strong><a href="https://github.com/16alves02/hoop">HOOP</a></strong><br>
+      <sub>ACADEMIC · FRONTEND</sub>
+      <p>Academic basketball-store frontend with product discovery, search, filters, favourites, cart and simulated checkout. No real authentication or payments.</p>
+      <sub>React · TypeScript · Vite</sub>
     </td>
   </tr>
 </table>
 
 ### `$ ls ./other-work`
 
-- **[HOOP](https://github.com/16alves02/hoop)** - academic basketball-store frontend with product discovery, filters, cart and simulated checkout. No real authentication or payments.
+- **RAW.** - social card app in development, with three modes, 27 decks and six languages. [Public demo](https://alv16studios.itch.io/raw-conversation-game) · [Web demo](https://raw-app-bice.vercel.app). Source repository is private.
 - **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
 - **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
 
