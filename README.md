@@ -60,6 +60,7 @@ Type       Paid curricular internship
   <a href="https://github.com/16alves02/RunLattice"><img src="./cards/project-2.svg" width="100%" alt="RunLattice - workflow automation product prototype"></a>
   <a href="https://github.com/16alves02/mrdr"><img src="./cards/project-3.svg" width="100%" alt="MRDR - original crime-deduction game"></a>
   <a href="https://raw-app-bice.vercel.app/"><img src="./cards/project-4.svg" width="100%" alt="RAW - social card game"></a>
+  <a href="https://github.com/16alves02/hoop"><img src="./cards/project-5.svg" width="100%" alt="HOOP - academic basketball-store frontend"></a>
 </p>
 
 <table>
