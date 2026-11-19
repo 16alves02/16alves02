@@ -1,18 +1,24 @@
 <!--
   16alves02 | GitHub profile
-  Terminal-inspired overview of current work.
+  Animated SVG identity layer, preserving the original profile's useful content.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - 16alves02 terminal profile" width="100%">
+  <img src="./cards/hero.svg" alt="Leonardo Alves - Software Developer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://16alves02.pages.dev/">Portfolio</a> ·
+  <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
   <a href="https://github.com/13alves05">Academic GitHub</a> ·
   <a href="https://www.instagram.com/16alves02/">Instagram</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/16alves02?tab=repositories"><img src="./cards/tile-build.svg" width="32.5%" alt="Build - Software projects"></a>
+  <a href="https://16alves02-com.vercel.app/"><img src="./cards/tile-create.svg" width="32.5%" alt="Create - Products and experiments"></a>
+  <a href="https://github.com/13alves05"><img src="./cards/tile-learn.svg" width="32.5%" alt="Learn - Academic work"></a>
 </p>
 
 ---
@@ -40,12 +46,26 @@ Remote     Portugal
 Type       Paid curricular internship
 ```
 
+### `$ ./activity --last-12-months`
+
+<p align="center">
+  <img src="./cards/activity.svg" width="100%" alt="Monthly GitHub contribution activity, active days and streak">
+  <img src="./cards/contributions.svg" width="100%" alt="GitHub contribution graph in the 16alves02 orange accent">
+</p>
+
 ### `$ ls ./featured-projects`
+
+<p align="center">
+  <a href="https://github.com/16alves02/SaborGest"><img src="./cards/project-1.svg" width="100%" alt="SaborGest - food-business management system"></a>
+  <a href="https://github.com/16alves02/RunLattice"><img src="./cards/project-2.svg" width="100%" alt="RunLattice - workflow automation product prototype"></a>
+  <a href="https://github.com/16alves02/mrdr"><img src="./cards/project-3.svg" width="100%" alt="MRDR - original crime-deduction game"></a>
+  <a href="https://raw-app-bice.vercel.app/"><img src="./cards/project-4.svg" width="100%" alt="RAW - social card game"></a>
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>SaborGest</strong><br>
+      <strong><a href="https://github.com/16alves02/SaborGest">SaborGest</a></strong><br>
       <sub>ACADEMIC · IN DEVELOPMENT</sub>
       <p>Management system for small food businesses, combining a PHP web panel, REST API, relational database and Kotlin Android kiosk. Covers staff schedules, attendance and stock management.</p>
       <sub>PHP · PDO · MySQL · Kotlin · Android · Retrofit</sub>
@@ -59,9 +79,9 @@ Type       Paid curricular internship
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>MRDR.</strong><br>
-      <sub>ORIGINAL GAME · IN DEVELOPMENT</sub>
-      <p>Original crime-deduction game with procedural cases, connected clues, unique-solution validation and campaign progression. In development.</p>
+      <strong><a href="https://github.com/16alves02/mrdr">MRDR.</a></strong><br>
+      <sub>ORIGINAL GAME</sub>
+      <p>Original crime-deduction game with procedural cases, connected clues, unique-solution validation and campaign progression.</p>
       <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
     </td>
     <td width="50%" valign="top">
@@ -75,7 +95,7 @@ Type       Paid curricular internship
 
 ### `$ ls ./other-work`
 
-- **RAW.** - social card app in development, with three modes, 27 decks and six languages. [Public demo](https://alv16studios.itch.io/raw-conversation-game) · [Web demo](https://raw-app-bice.vercel.app). Source repository is private.
+- **RAW.** - social card app with three modes and six languages. [Public demo](https://alv16studios.itch.io/raw-conversation-game) · [Web demo](https://raw-app-bice.vercel.app). Source repository is private.
 - **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
 - **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
 
