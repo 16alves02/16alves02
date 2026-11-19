@@ -1,6 +1,6 @@
 <!--
   16alves02 | GitHub profile
-  Animated SVG identity layer, preserving the original profile's useful content.
+  A compact, animated overview of the work, projects and tools behind the name.
 -->
 
 <p align="center">
@@ -23,37 +23,39 @@
 
 ---
 
-### `$ whoami`
+### $ whoami
 
 **Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
 
-Based in **Oliveira de Azeméis, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
+Based in **Oliveira de Azeméis, Portugal**. I build web applications, backend services, APIs, relational databases and Android projects.
 
-```text
-user      : Leonardo Alves (@16alves02)
-education : CTeSP Software Development · UA / ESAN
-interests : Full-stack development · Backend · Mobile
-```
+### $ current-focus
 
-### `$ git status`
+| | |
+|---|---|
+| Education | CTeSP Software Development · UA / ESAN |
+| Focus | Web · Backend · Mobile · Product engineering |
+| Location | Oliveira de Azeméis, Portugal |
 
-```text
-AVAILABLE  Curricular internship · 680 hours
-Start      February 2027
-On-site    Oliveira de Azeméis and nearby areas
-Hybrid     Aveiro · Porto · Coimbra
-Remote     Portugal
-Type       Paid curricular internship
-```
+### $ internship --status
 
-### `$ ./activity --last-12-months`
+| | |
+|---|---|
+| Status | Seeking a paid curricular internship |
+| Duration | 680 hours |
+| Start | February 2027 |
+| On-site | Oliveira de Azeméis and nearby areas |
+| Hybrid | Aveiro · Porto · Coimbra |
+| Remote | Portugal |
+
+### $ activity --github
 
 <p align="center">
-  <img src="./cards/activity.svg" width="100%" alt="Monthly GitHub contribution activity, active days and streak">
-  <img src="./cards/contributions.svg" width="100%" alt="GitHub contribution graph in the 16alves02 orange accent">
+  <img src="./cards/activity.svg" width="100%" alt="GitHub contribution totals, active days, current streak and monthly activity">
+  <img src="./cards/contributions.svg" width="100%" alt="GitHub contribution calendar using the 16alves02 orange palette">
 </p>
 
-### `$ ls ./featured-projects`
+### $ ls ./featured-projects
 
 <p align="center">
   <a href="https://github.com/16alves02/SaborGest"><img src="./cards/project-1.svg" width="100%" alt="SaborGest - food-business management system"></a>
@@ -68,13 +70,13 @@ Type       Paid curricular internship
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/SaborGest">SaborGest</a></strong><br>
       <sub>ACADEMIC · IN DEVELOPMENT</sub>
-      <p>Management system for small food businesses, combining a PHP web panel, REST API, relational database and Kotlin Android kiosk. Covers staff schedules, attendance and stock management.</p>
+      <p>Management system for small food businesses. Combines a PHP web panel, REST API, relational database and Kotlin Android kiosk, with staff schedules, attendance and stock management.</p>
       <sub>PHP · PDO · MySQL · Kotlin · Android · Retrofit</sub>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/RunLattice">RunLattice</a></strong><br>
       <sub>PRODUCT PROTOTYPE · IN DEVELOPMENT</sub>
-      <p>Workflow automation prototype with authenticated organisation workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks, scheduled triggers and a working Discord webhook action. The worker currently supports one trigger and at most one condition.</p>
+      <p>Workflow automation prototype with authenticated workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks and a working Discord webhook action. The worker currently supports one trigger and at most one condition.</p>
       <sub>Next.js · TypeScript · Better Auth · PostgreSQL · Redis · BullMQ</sub>
     </td>
   </tr>
@@ -82,31 +84,31 @@ Type       Paid curricular internship
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/mrdr">MRDR.</a></strong><br>
       <sub>ORIGINAL GAME</sub>
-      <p>Original crime-deduction game with procedural cases, connected clues, unique-solution validation and campaign progression.</p>
+      <p>Original crime-deduction game built around procedural cases, connected clues, unique-solution validation and campaign progression.</p>
       <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/16alves02/hoop">HOOP</a></strong><br>
       <sub>ACADEMIC · FRONTEND</sub>
-      <p>Academic basketball-store frontend with product discovery, search, filters, favourites, cart and simulated checkout. No real authentication or payments.</p>
+      <p>Basketball-store frontend with product discovery, search, filters, favourites, cart and simulated checkout. No real authentication or payments.</p>
       <sub>React · TypeScript · Vite</sub>
     </td>
   </tr>
 </table>
 
-### `$ ls ./other-work`
+### $ ls ./other-work
 
 - **RAW.** - social card app with three modes and six languages. [Public demo](https://alv16studios.itch.io/raw-conversation-game) · [Web demo](https://raw-app-bice.vercel.app). Source repository is private.
 - **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
 - **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
 
-### `$ cat ./toolbox.txt`
+### $ cat ./toolbox.txt
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,php,kotlin,html,css,tailwind,nextjs,vite,mysql,postgres,redis,docker,git,github&theme=dark" alt="React, TypeScript, JavaScript, PHP, Kotlin, HTML, CSS, Tailwind CSS, Next.js, Vite, MySQL, PostgreSQL, Redis, Docker, Git and GitHub">
 </p>
 
-### `$ experience --relevant`
+### $ experience --relevant
 
 - **Backend Development Intern** - ClickBeauty / Alvocromático · PHP, MySQL and internal web systems.
 - **Web Development Intern** - Associação Estamos Juntos (AEJ) · HTML, CSS, JavaScript, PHP and database integration.
