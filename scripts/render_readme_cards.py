@@ -35,14 +35,14 @@ def fetch_contributions():
         with urllib.request.urlopen(request, timeout=25) as response:
             source = response.read().decode("utf-8", "replace")
         days = []
-        for match in re.finditer(r'<td[^>]*data-date="(\\d{4}-\\d{2}-\\d{2})"[^>]*data-count="(\\d+)"[^>]*data-level="(\\d+)"', source):
+        for match in re.finditer(r'<td[^>]*data-date="(\d{4}-\d{2}-\d{2})"[^>]*data-count="(\d+)"[^>]*data-level="(\d+)"', source):
             days.append({"date": match.group(1), "count": int(match.group(2)), "level": int(match.group(3))})
         if not days:
             # Attribute order varies; parse each contribution cell independently.
             for cell in re.findall(r'<td\\b[^>]*>', source):
-                d = re.search(r'data-date="(\\d{4}-\\d{2}-\\d{2})"', cell)
-                c = re.search(r'data-count="(\\d+)"', cell)
-                l = re.search(r'data-level="(\\d+)"', cell)
+                d = re.search(r'data-date="(\d{4}-\d{2}-\d{2})"', cell)
+                c = re.search(r'data-count="(\d+)"', cell)
+                l = re.search(r'data-level="(\d+)"', cell)
                 if d and c:
                     days.append({"date": d.group(1), "count": int(c.group(1)), "level": int(l.group(1)) if l else 0})
         if not days:
