@@ -177,6 +177,7 @@ def render_repo_cards():
         ("RUNLATTICE", "Workflow automation product prototype", "Next.js · TypeScript · PostgreSQL", "https://github.com/16alves02/RunLattice"),
         ("MRDR.", "Original crime-deduction game", "React · TypeScript · Capacitor", "https://github.com/16alves02/mrdr"),
         ("RAW.", "Social card game · 6 languages", "Web · PWA · Product design", "https://raw-app-bice.vercel.app/"),
+        ("HOOP", "Academic basketball-store frontend", "React · TypeScript · Vite", "https://github.com/16alves02/hoop"),
     ]
     for index, (name, description, stack, _) in enumerate(repos):
         content = rounded_rect(24, 18, 912, 116, PANEL, 14, "#34312E")
