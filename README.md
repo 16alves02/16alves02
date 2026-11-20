@@ -21,7 +21,7 @@
 
 **Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
 
-Based in **Oliveira de Azeméis, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
+Based in **Aveiro, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
 
 ```text
 user      : Leonardo Alves (@16alves02)
@@ -96,5 +96,5 @@ Type       Paid curricular internship
 
 <p align="center">
   <code>build → learn → refine</code><br>
-  <sub>16alves02 · Oliveira de Azeméis, Portugal</sub>
+  <sub>16alves02 · Aveiro, Portugal</sub>
 </p>
