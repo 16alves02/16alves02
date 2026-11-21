@@ -1,17 +1,16 @@
 <!--
   16alves02 | GitHub profile
-  Terminal-inspired overview of current work.
+  Software development portfolio and professional overview.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - 16alves02 terminal profile" width="100%">
+  <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves - 16alves02" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://16alves02.pages.dev/">Portfolio</a> ·
+  <a href="https://16alves02-com.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/16alves02/">LinkedIn</a> ·
   <a href="https://github.com/13alves05">Academic GitHub</a> ·
-  <a href="https://www.instagram.com/16alves02/">Instagram</a> ·
   <a href="mailto:16alves02@gmail.com">Email</a>
 </p>
 
@@ -19,82 +18,68 @@
 
 ### `$ whoami`
 
-**Software Developer** · Software Development student at **Universidade de Aveiro (ESAN)**, 2025-2027.
+I'm **Leonardo Alves**, a Software Developer and Software Development student at **Escola Superior Aveiro Norte, Universidade de Aveiro** (CTeSP, 2025-2027).
 
-Based in **Aveiro, Portugal**. I work on web applications, backend services, APIs, relational databases and Android projects.
+Based in **Aveiro, Portugal**. I build software across web applications, backend services, APIs, relational databases and Android. I enjoy understanding how systems work as a whole, from user-facing features to data and application logic.
 
-```text
-user      : Leonardo Alves (@16alves02)
-education : CTeSP Software Development · UA / ESAN
-interests : Full-stack development · Backend · Mobile
-```
+### `$ career --open-to`
 
-### `$ git status`
+- **Junior Software Developer** opportunities.
+- **Paid curricular internship:** 680 hours, starting February 2027.
+- **On-site:** Oliveira de Azeméis and nearby areas.
+- **Hybrid:** Aveiro, Porto and Coimbra districts.
+- **Remote:** Portugal.
 
-```text
-AVAILABLE  Curricular internship · 680 hours
-Start      February 2027
-On-site    Oliveira de Azeméis and nearby areas
-Hybrid     Aveiro · Porto · Coimbra
-Remote     Portugal
-Type       Paid curricular internship
-```
+### `$ ls ./selected-work`
 
-### `$ ls ./featured-projects`
+| Project | Overview | Technologies |
+| --- | --- | --- |
+| **[RunLattice](https://github.com/16alves02/RunLattice)** | Workflow automation platform prototype. Includes organisation workspaces, a visual workflow builder, background execution, integrations, signed webhooks and scheduled triggers. Still under development; execution capabilities and limitations are documented in the repository. | Next.js, React, TypeScript, PostgreSQL, Prisma, Redis, BullMQ |
+| **[HOOP](https://github.com/16alves02/hoop)** | Academic basketball-store frontend with product discovery, search, filters, favourites, cart and simulated checkout. No real authentication or payments. | React, TypeScript, Vite |
+| **[Two of Hearts](https://github.com/16alves02/two-of-hearts-portuguese-folk-art)** | Academic project exploring Portuguese folk art through a digital experience. | Web development |
+| **[ArraySorting](https://github.com/16alves02/ArraySorting)** | C console application demonstrating Selection Sort, Insertion Sort, Bubble Sort and Bogo Sort, with automated tests and strict compiler warnings. | C, GCC, GitHub Actions |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>SaborGest</strong><br>
-      <sub>ACADEMIC · IN DEVELOPMENT</sub>
-      <p>Management system for small food businesses, combining a PHP web panel, REST API, relational database and Kotlin Android kiosk. Covers staff schedules, attendance and stock management.</p>
-      <sub>PHP · PDO · MySQL · Kotlin · Android · Retrofit</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/16alves02/RunLattice">RunLattice</a></strong><br>
-      <sub>PRODUCT PROTOTYPE · IN DEVELOPMENT</sub>
-      <p>Workflow automation prototype with authenticated organisation workspaces, a visual builder, PostgreSQL persistence, Redis/BullMQ execution, signed webhooks, scheduled triggers and a working Discord webhook action. The worker currently supports one trigger and at most one condition.</p>
-      <sub>Next.js · TypeScript · Better Auth · PostgreSQL · Redis · BullMQ</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>MRDR.</strong><br>
-      <sub>ORIGINAL GAME · IN DEVELOPMENT</sub>
-      <p>Original crime-deduction game with procedural cases, connected clues, unique-solution validation and campaign progression. In development.</p>
-      <sub>React · TypeScript · Zustand · Vitest · Capacitor</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/16alves02/hoop">HOOP</a></strong><br>
-      <sub>ACADEMIC · FRONTEND</sub>
-      <p>Academic basketball-store frontend with product discovery, search, filters, favourites, cart and simulated checkout. No real authentication or payments.</p>
-      <sub>React · TypeScript · Vite</sub>
-    </td>
-  </tr>
-</table>
+### `$ cat ./additional-projects.txt`
 
-### `$ ls ./other-work`
+- **SaborGest** - academic management system for small food businesses. Combines a PHP web panel, REST API, relational database and Kotlin Android kiosk, with staff scheduling, attendance and stock workflows. In development.
+- **MRDR.** - original crime-deduction game built around procedural cases, connected clues, unique-solution validation and campaign progression.
+- **RAW.** - interactive conversation and party-game app with three modes, 27 decks and six languages. [Web demo](https://raw-app-bice.vercel.app) · [itch.io](https://alv16studios.itch.io/raw-conversation-game).
+- **Nova Imagem by Maura Pereira** - published website for a local hair salon, presenting services, gallery, opening hours and contact information. [Website](https://novaimagembymaurapereira.netlify.app).
 
-- **RAW.** - social card app in development, with three modes, 27 decks and six languages. [Public demo](https://alv16studios.itch.io/raw-conversation-game) · [Web demo](https://raw-app-bice.vercel.app). Source repository is private.
-- **[Basket Hub](https://github.com/bmgoliveira-UA/basket-hub)** - academic team project for basketball operations, built with Kotlin, Ktor, Thymeleaf and Exposed.
-- **[Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora)** - four-person academic Python CLI for music catalogue management, search, financial reports and reversible history.
+Some personal and academic projects have private source repositories. Their status and scope are represented accurately in my [portfolio](https://16alves02-com.vercel.app/).
 
 ### `$ cat ./toolbox.txt`
 
+**Languages**
+- JavaScript, TypeScript, PHP, Kotlin, C, Python and SQL.
+
+**Development**
+- React, Next.js, Vite, Android, REST APIs and backend development.
+
+**Data and infrastructure**
+- MySQL, MariaDB, PostgreSQL, Redis, Prisma, BullMQ and Docker.
+
+**Tools**
+- Git, GitHub, GitHub Actions and Linux.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,php,kotlin,html,css,tailwind,nextjs,vite,mysql,postgres,redis,docker,git,github&theme=dark" alt="React, TypeScript, JavaScript, PHP, Kotlin, HTML, CSS, Tailwind CSS, Next.js, Vite, MySQL, PostgreSQL, Redis, Docker, Git and GitHub">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,kotlin,c,python,html,css,nextjs,vite,mysql,postgres,redis,docker,git,github&theme=dark" alt="Technologies and tools used across my projects">
 </p>
 
 ### `$ experience --relevant`
 
-- **Backend Development Intern** - ClickBeauty / Alvocromático · PHP, MySQL and internal web systems.
-- **Web Development Intern** - Associação Estamos Juntos (AEJ) · HTML, CSS, JavaScript, PHP and database integration.
+- **Backend Developer Intern - ClickBeauty / Alvocromático:** backend development with PHP, MySQL and internal web systems.
+- **Web Development Intern - Associação Estamos Juntos (AEJ):** web development with HTML, CSS, JavaScript, PHP and database integration.
+- **CNC Machine Operator - Schmidt Light Metal Group:** precision-focused production, quality control, process discipline and troubleshooting.
 
-<sub>Additional experience in CNC machine operation and retail, including production quality control, operational procedures and teamwork.</sub>
+### `$ education`
+
+**CTeSP in Software Development**  
+Escola Superior Aveiro Norte, Universidade de Aveiro · 2025-2027
 
 ---
 
 <p align="center">
-  <code>build → learn → refine</code><br>
-  <sub>16alves02 · Aveiro, Portugal</sub>
+  <code>build · understand · improve</code><br>
+  <sub>Leonardo Alves · @16alves02 · Aveiro, Portugal</sub>
 </p>
