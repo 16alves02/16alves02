@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FF7A18&center=true&vCenter=true&width=640&lines=Open+to+a+paid+internship+%C2%B7+Feb+2027;Aveiro%2C+Portugal+%C2%B7+on-site+%2F+hybrid+%2F+remote" alt="Open to a paid internship starting February 2027. Aveiro, Portugal, on-site, hybrid or remote.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FF7A18&center=true&vCenter=true&width=640&lines=Software+developer+%C2%B7+Web%2C+APIs+and+Android;Aveiro%2C+Portugal" alt="Software developer focused on web, APIs and Android. Based in Aveiro, Portugal.">
 </p>
 
 # Leonardo Alves
@@ -13,9 +13,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:16alves02@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-4B5563?style=for-the-badge)](https://16alves02.pages.dev/cv-leonardo-alves-en.pdf)
 
-> [!NOTE]
-> **Open to work:** paid curricular internship, 680 hours, starting **February 2027**.
-> On-site near Oliveira de Azeméis, or hybrid/remote across the Aveiro, Porto and Coimbra districts.
+I build web applications, REST APIs and Android apps, and I care about clear data models and software that is easy to maintain. Each project below states its real status and whether the source is public. Case studies are on the portfolio.
 
 ## At a glance
 
@@ -23,11 +21,9 @@
 | --- | --- |
 | **Focus** | Web applications, REST APIs, relational databases, Android |
 | **Studying** | CTeSP in Software Development, ESAN, University of Aveiro (2025–2027) |
-| **Experience** | Backend internship (PHP, MySQL) and web development internship |
 | **Main stack** | PHP, Kotlin, TypeScript, React, MySQL, PostgreSQL |
+| **Currently** | Building RunLattice, finishing MRDR., developing SaborGest |
 | **Based in** | Aveiro, Portugal |
-
-Every project below states its real status and whether the source is public. Case studies and FAQ are on the portfolio.
 
 ## Featured projects
 
@@ -37,8 +33,6 @@ Every project below states its real status and whether the source is public. Cas
 | **RunLattice** · [repo](https://github.com/16alves02/RunLattice) · [case study](https://16alves02.pages.dev/projects/runlattice.html) | Workflow automation prototype: authenticated workspaces, visual editor, templates, Redis/BullMQ background execution, signed webhooks and scheduled triggers. One live external action (Discord webhooks), one trigger and at most one condition per workflow. AI planning only produces review-only drafts. | Next.js, React, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | Personal prototype in development. Public source (MIT) |
 | **RAW.** · [web demo](https://raw-app-bice.vercel.app) · [itch.io](https://alv16studios.itch.io/raw-conversation-game) | Card-based social game with three play modes, 27 decks, six languages and an offline-ready PWA. | React, JavaScript, PWA | Public demo. Private source |
 | **MRDR.** · [case study](https://16alves02.pages.dev/projects/mrdr.html) | Original crime-deduction game built around evidence, suspects, alibis and connected clues. | React, TypeScript, Vite, Capacitor | Functional version complete, public release pending. Private source |
-
-<!-- MRDR. page (once released): https://YOUR-PAGE-URL -->
 
 ## More work
 
@@ -56,7 +50,6 @@ Every project below states its real status and whether the source is public. Cas
 Depth varies by technology and project; each project above lists its own stack.
 
 **Languages**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -66,7 +59,6 @@ Depth varies by technology and project; each project above lists its own stack.
 ![SQL](https://img.shields.io/badge/SQL-4B5563?style=for-the-badge)
 
 **Frontend & Android**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,7 +67,6 @@ Depth varies by technology and project; each project above lists its own stack.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Backend & Data**
-
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0A7EA4?style=for-the-badge)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -83,10 +74,8 @@ Depth varies by technology and project; each project above lists its own stack.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-E8453C?style=for-the-badge)
 
 **Tools**
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -95,7 +84,7 @@ Depth varies by technology and project; each project above lists its own stack.
 
 | Role | Where | When |
 | --- | --- | --- |
-| **Backend Development Intern** | ClickBeauty / Alvocromático | Apr–Jul 2023 |
+| **Backend Development Intern** (PHP, MySQL) | ClickBeauty / Alvocromático | Apr–Jul 2023 |
 | **Web Development Intern** | Associação Estamos Juntos | Jul 2022 |
 | CNC Machine Operator | Schmidt Light Metal Group | Feb 2025 – May 2026 |
 | Store Assistant | MC | May–Aug 2024 |
@@ -123,14 +112,6 @@ Depth varies by technology and project; each project above lists its own stack.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=16alves02&bg_color=0D0D0D&color=D5CEC7&line=FF7A18&point=F4F1ED&area=true&area_color=FF7A18&hide_border=true" alt="Contribution activity graph" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=16alves02&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub trophies">
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution view" width="100%">
 </p>
 
 <p align="center">
