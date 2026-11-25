@@ -24,7 +24,7 @@ I build web applications, REST APIs and Android apps, and I care about clear dat
 | **Focus** | Web applications, REST APIs, relational databases, Android |
 | **Studying** | CTeSP in Software Development, ESAN, University of Aveiro (2025–2027) |
 | **Main stack** | PHP, Kotlin, TypeScript, React, MySQL, PostgreSQL |
-| **Currently** | Building RunLattice, finishing MRDR., developing SaborGest |
+| **Currently** | Building RunLattice, preparing the public release of MRDR., developing SaborGest |
 | **Based in** | Aveiro, Portugal |
 
 ## Featured projects
