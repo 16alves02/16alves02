@@ -1,3 +1,5 @@
+> **Idioma / Language:** [English](README.md) · [Português (Portugal)](README.pt-PT.md)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/16alves02/16alves02/main/assets/developer-banner.svg" alt="Leonardo Alves, Software Developer" width="100%">
 </p>
